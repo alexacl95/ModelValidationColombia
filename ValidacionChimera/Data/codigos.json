@@ -1,0 +1,6963 @@
+{
+	"nombre": "COLOMBIA",
+	"codigo": "00",
+	"poblacion": "50372424",
+	"entidades": {
+		"05": {
+			"nombre": "ANTIOQUIA",
+			"codigo": "05",
+			"poblacion": "6677930",
+			"entidades": {
+				"05001": {
+					"nombre": "MEDELLIN",
+					"codigo": "05001",
+					"poblacion": "2533424",
+					"entidades": []
+				},
+				"05002": {
+					"nombre": "ABEJORRAL",
+					"codigo": "05002",
+					"poblacion": "20287",
+					"entidades": []
+				},
+				"05004": {
+					"nombre": "ABRIAQUI",
+					"codigo": "05004",
+					"poblacion": "2735",
+					"entidades": []
+				},
+				"05021": {
+					"nombre": "ALEJANDRIA",
+					"codigo": "05021",
+					"poblacion": "4698",
+					"entidades": []
+				},
+				"05030": {
+					"nombre": "AMAGA",
+					"codigo": "05030",
+					"poblacion": "31283",
+					"entidades": []
+				},
+				"05031": {
+					"nombre": "AMALFI",
+					"codigo": "05031",
+					"poblacion": "27071",
+					"entidades": []
+				},
+				"05034": {
+					"nombre": "ANDES",
+					"codigo": "05034",
+					"poblacion": "44199",
+					"entidades": []
+				},
+				"05036": {
+					"nombre": "ANGELOPOLIS",
+					"codigo": "05036",
+					"poblacion": "5841",
+					"entidades": []
+				},
+				"05038": {
+					"nombre": "ANGOSTURA",
+					"codigo": "05038",
+					"poblacion": "11536",
+					"entidades": []
+				},
+				"05040": {
+					"nombre": "ANORI",
+					"codigo": "05040",
+					"poblacion": "19104",
+					"entidades": []
+				},
+				"05042": {
+					"nombre": "SANTA FE DE ANTIOQUIA",
+					"codigo": "05042",
+					"poblacion": "27002",
+					"entidades": []
+				},
+				"05044": {
+					"nombre": "ANZA",
+					"codigo": "05044",
+					"poblacion": "7169",
+					"entidades": []
+				},
+				"05045": {
+					"nombre": "APARTADO",
+					"codigo": "05045",
+					"poblacion": "127744",
+					"entidades": []
+				},
+				"05051": {
+					"nombre": "ARBOLETES",
+					"codigo": "05051",
+					"poblacion": "30510",
+					"entidades": []
+				},
+				"05055": {
+					"nombre": "ARGELIA",
+					"codigo": "05055",
+					"poblacion": "7545",
+					"entidades": []
+				},
+				"05059": {
+					"nombre": "ARMENIA",
+					"codigo": "05059",
+					"poblacion": "5074",
+					"entidades": []
+				},
+				"05079": {
+					"nombre": "BARBOSA",
+					"codigo": "05079",
+					"poblacion": "54347",
+					"entidades": []
+				},
+				"05086": {
+					"nombre": "BELMIRA",
+					"codigo": "05086",
+					"poblacion": "6116",
+					"entidades": []
+				},
+				"05088": {
+					"nombre": "BELLO",
+					"codigo": "05088",
+					"poblacion": "552154",
+					"entidades": []
+				},
+				"05091": {
+					"nombre": "BETANIA",
+					"codigo": "05091",
+					"poblacion": "10284",
+					"entidades": []
+				},
+				"05093": {
+					"nombre": "BETULIA",
+					"codigo": "05093",
+					"poblacion": "15896",
+					"entidades": []
+				},
+				"05101": {
+					"nombre": "CIUDAD BOLIVAR",
+					"codigo": "05101",
+					"poblacion": "26313",
+					"entidades": []
+				},
+				"05107": {
+					"nombre": "BRICE\u00d1O",
+					"codigo": "05107",
+					"poblacion": "8120",
+					"entidades": []
+				},
+				"05113": {
+					"nombre": "BURITICA",
+					"codigo": "05113",
+					"poblacion": "9634",
+					"entidades": []
+				},
+				"05120": {
+					"nombre": "CACERES",
+					"codigo": "05120",
+					"poblacion": "30356",
+					"entidades": []
+				},
+				"05125": {
+					"nombre": "CAICEDO",
+					"codigo": "05125",
+					"poblacion": "8536",
+					"entidades": []
+				},
+				"05129": {
+					"nombre": "CALDAS",
+					"codigo": "05129",
+					"poblacion": "83423",
+					"entidades": []
+				},
+				"05134": {
+					"nombre": "CAMPAMENTO",
+					"codigo": "05134",
+					"poblacion": "9243",
+					"entidades": []
+				},
+				"05138": {
+					"nombre": "CA\u00d1ASGORDAS",
+					"codigo": "05138",
+					"poblacion": "15552",
+					"entidades": []
+				},
+				"05142": {
+					"nombre": "CARACOLI",
+					"codigo": "05142",
+					"poblacion": "4532",
+					"entidades": []
+				},
+				"05145": {
+					"nombre": "CARAMANTA",
+					"codigo": "05145",
+					"poblacion": "4648",
+					"entidades": []
+				},
+				"05147": {
+					"nombre": "CAREPA",
+					"codigo": "05147",
+					"poblacion": "51143",
+					"entidades": []
+				},
+				"05148": {
+					"nombre": "EL CARMEN DE VIBORAL",
+					"codigo": "05148",
+					"poblacion": "62581",
+					"entidades": []
+				},
+				"05150": {
+					"nombre": "CAROLINA",
+					"codigo": "05150",
+					"poblacion": "3972",
+					"entidades": []
+				},
+				"05154": {
+					"nombre": "CAUCASIA",
+					"codigo": "05154",
+					"poblacion": "95427",
+					"entidades": []
+				},
+				"05172": {
+					"nombre": "CHIGORODO",
+					"codigo": "05172",
+					"poblacion": "59836",
+					"entidades": []
+				},
+				"05190": {
+					"nombre": "CISNEROS",
+					"codigo": "05190",
+					"poblacion": "9936",
+					"entidades": []
+				},
+				"05197": {
+					"nombre": "COCORNA",
+					"codigo": "05197",
+					"poblacion": "14833",
+					"entidades": []
+				},
+				"05206": {
+					"nombre": "CONCEPCION",
+					"codigo": "05206",
+					"poblacion": "4758",
+					"entidades": []
+				},
+				"05209": {
+					"nombre": "CONCORDIA",
+					"codigo": "05209",
+					"poblacion": "21688",
+					"entidades": []
+				},
+				"05212": {
+					"nombre": "COPACABANA",
+					"codigo": "05212",
+					"poblacion": "81820",
+					"entidades": []
+				},
+				"05234": {
+					"nombre": "DABEIBA",
+					"codigo": "05234",
+					"poblacion": "23509",
+					"entidades": []
+				},
+				"05237": {
+					"nombre": "DONMATIAS",
+					"codigo": "05237",
+					"poblacion": "19709",
+					"entidades": []
+				},
+				"05240": {
+					"nombre": "EBEJICO",
+					"codigo": "05240",
+					"poblacion": "12134",
+					"entidades": []
+				},
+				"05250": {
+					"nombre": "EL BAGRE",
+					"codigo": "05250",
+					"poblacion": "53846",
+					"entidades": []
+				},
+				"05264": {
+					"nombre": "ENTRERRIOS",
+					"codigo": "05264",
+					"poblacion": "11728",
+					"entidades": []
+				},
+				"05266": {
+					"nombre": "ENVIGADO",
+					"codigo": "05266",
+					"poblacion": "242197",
+					"entidades": []
+				},
+				"05282": {
+					"nombre": "FREDONIA",
+					"codigo": "05282",
+					"poblacion": "24754",
+					"entidades": []
+				},
+				"05284": {
+					"nombre": "FRONTINO",
+					"codigo": "05284",
+					"poblacion": "20700",
+					"entidades": []
+				},
+				"05306": {
+					"nombre": "GIRALDO",
+					"codigo": "05306",
+					"poblacion": "5750",
+					"entidades": []
+				},
+				"05308": {
+					"nombre": "GIRARDOTA",
+					"codigo": "05308",
+					"poblacion": "54439",
+					"entidades": []
+				},
+				"05310": {
+					"nombre": "GOMEZ PLATA",
+					"codigo": "05310",
+					"poblacion": "9921",
+					"entidades": []
+				},
+				"05313": {
+					"nombre": "GRANADA",
+					"codigo": "05313",
+					"poblacion": "9764",
+					"entidades": []
+				},
+				"05315": {
+					"nombre": "GUADALUPE",
+					"codigo": "05315",
+					"poblacion": "6665",
+					"entidades": []
+				},
+				"05318": {
+					"nombre": "GUARNE",
+					"codigo": "05318",
+					"poblacion": "58159",
+					"entidades": []
+				},
+				"05321": {
+					"nombre": "GUATAPE",
+					"codigo": "05321",
+					"poblacion": "8709",
+					"entidades": []
+				},
+				"05347": {
+					"nombre": "HELICONIA",
+					"codigo": "05347",
+					"poblacion": "5395",
+					"entidades": []
+				},
+				"05353": {
+					"nombre": "HISPANIA",
+					"codigo": "05353",
+					"poblacion": "5591",
+					"entidades": []
+				},
+				"05360": {
+					"nombre": "ITAGUI",
+					"codigo": "05360",
+					"poblacion": "289994",
+					"entidades": []
+				},
+				"05361": {
+					"nombre": "ITUANGO",
+					"codigo": "05361",
+					"poblacion": "27789",
+					"entidades": []
+				},
+				"05364": {
+					"nombre": "JARDIN",
+					"codigo": "05364",
+					"poblacion": "14830",
+					"entidades": []
+				},
+				"05368": {
+					"nombre": "JERICO",
+					"codigo": "05368",
+					"poblacion": "13706",
+					"entidades": []
+				},
+				"05376": {
+					"nombre": "LA CEJA",
+					"codigo": "05376",
+					"poblacion": "68325",
+					"entidades": []
+				},
+				"05380": {
+					"nombre": "LA ESTRELLA",
+					"codigo": "05380",
+					"poblacion": "75517",
+					"entidades": []
+				},
+				"05390": {
+					"nombre": "LA PINTADA",
+					"codigo": "05390",
+					"poblacion": "8460",
+					"entidades": []
+				},
+				"05400": {
+					"nombre": "LA UNION",
+					"codigo": "05400",
+					"poblacion": "22391",
+					"entidades": []
+				},
+				"05411": {
+					"nombre": "LIBORINA",
+					"codigo": "05411",
+					"poblacion": "10090",
+					"entidades": []
+				},
+				"05425": {
+					"nombre": "MACEO",
+					"codigo": "05425",
+					"poblacion": "8248",
+					"entidades": []
+				},
+				"05440": {
+					"nombre": "MARINILLA",
+					"codigo": "05440",
+					"poblacion": "67893",
+					"entidades": []
+				},
+				"05467": {
+					"nombre": "MONTEBELLO",
+					"codigo": "05467",
+					"poblacion": "6641",
+					"entidades": []
+				},
+				"05475": {
+					"nombre": "MURINDO",
+					"codigo": "05475",
+					"poblacion": "5234",
+					"entidades": []
+				},
+				"05480": {
+					"nombre": "MUTATA",
+					"codigo": "05480",
+					"poblacion": "14389",
+					"entidades": []
+				},
+				"05483": {
+					"nombre": "NARI\u00d1O",
+					"codigo": "05483",
+					"poblacion": "9947",
+					"entidades": []
+				},
+				"05490": {
+					"nombre": "NECOCLI",
+					"codigo": "05490",
+					"poblacion": "44118",
+					"entidades": []
+				},
+				"05495": {
+					"nombre": "NECHI",
+					"codigo": "05495",
+					"poblacion": "27354",
+					"entidades": []
+				},
+				"05501": {
+					"nombre": "OLAYA",
+					"codigo": "05501",
+					"poblacion": "3175",
+					"entidades": []
+				},
+				"05541": {
+					"nombre": "PE\u00d1OL",
+					"codigo": "05541",
+					"poblacion": "21769",
+					"entidades": []
+				},
+				"05543": {
+					"nombre": "PEQUE",
+					"codigo": "05543",
+					"poblacion": "8285",
+					"entidades": []
+				},
+				"05576": {
+					"nombre": "PUEBLORRICO",
+					"codigo": "05576",
+					"poblacion": "8735",
+					"entidades": []
+				},
+				"05579": {
+					"nombre": "PUERTO BERRIO",
+					"codigo": "05579",
+					"poblacion": "40713",
+					"entidades": []
+				},
+				"05585": {
+					"nombre": "PUERTO NARE",
+					"codigo": "05585",
+					"poblacion": "14440",
+					"entidades": []
+				},
+				"05591": {
+					"nombre": "PUERTO TRIUNFO",
+					"codigo": "05591",
+					"poblacion": "18970",
+					"entidades": []
+				},
+				"05604": {
+					"nombre": "REMEDIOS",
+					"codigo": "05604",
+					"poblacion": "29629",
+					"entidades": []
+				},
+				"05607": {
+					"nombre": "RETIRO",
+					"codigo": "05607",
+					"poblacion": "24757",
+					"entidades": []
+				},
+				"05615": {
+					"nombre": "RIONEGRO",
+					"codigo": "05615",
+					"poblacion": "142995",
+					"entidades": []
+				},
+				"05628": {
+					"nombre": "SABANALARGA",
+					"codigo": "05628",
+					"poblacion": "9278",
+					"entidades": []
+				},
+				"05631": {
+					"nombre": "SABANETA",
+					"codigo": "05631",
+					"poblacion": "87981",
+					"entidades": []
+				},
+				"05642": {
+					"nombre": "SALGAR",
+					"codigo": "05642",
+					"poblacion": "18261",
+					"entidades": []
+				},
+				"05647": {
+					"nombre": "SAN ANDRES DE CUERQUIA",
+					"codigo": "05647",
+					"poblacion": "7281",
+					"entidades": []
+				},
+				"05649": {
+					"nombre": "SAN CARLOS",
+					"codigo": "05649",
+					"poblacion": "15811",
+					"entidades": []
+				},
+				"05652": {
+					"nombre": "SAN FRANCISCO",
+					"codigo": "05652",
+					"poblacion": "5889",
+					"entidades": []
+				},
+				"05656": {
+					"nombre": "SAN JERONIMO",
+					"codigo": "05656",
+					"poblacion": "16017",
+					"entidades": []
+				},
+				"05658": {
+					"nombre": "SAN JOSE DE LA MONTA\u00d1A",
+					"codigo": "05658",
+					"poblacion": "3765",
+					"entidades": []
+				},
+				"05659": {
+					"nombre": "SAN JUAN DE URABA",
+					"codigo": "05659",
+					"poblacion": "20950",
+					"entidades": []
+				},
+				"05660": {
+					"nombre": "SAN LUIS",
+					"codigo": "05660",
+					"poblacion": "13123",
+					"entidades": []
+				},
+				"05664": {
+					"nombre": "SAN PEDRO DE LOS MILAGROS",
+					"codigo": "05664",
+					"poblacion": "22885",
+					"entidades": []
+				},
+				"05665": {
+					"nombre": "SAN PEDRO DE URABA",
+					"codigo": "05665",
+					"poblacion": "32147",
+					"entidades": []
+				},
+				"05667": {
+					"nombre": "SAN RAFAEL",
+					"codigo": "05667",
+					"poblacion": "15663",
+					"entidades": []
+				},
+				"05670": {
+					"nombre": "SAN ROQUE",
+					"codigo": "05670",
+					"poblacion": "21597",
+					"entidades": []
+				},
+				"05674": {
+					"nombre": "SAN VICENTE FERRER",
+					"codigo": "05674",
+					"poblacion": "22469",
+					"entidades": []
+				},
+				"05679": {
+					"nombre": "SANTA BARBARA",
+					"codigo": "05679",
+					"poblacion": "27186",
+					"entidades": []
+				},
+				"05686": {
+					"nombre": "SANTA ROSA DE OSOS",
+					"codigo": "05686",
+					"poblacion": "37869",
+					"entidades": []
+				},
+				"05690": {
+					"nombre": "SANTO DOMINGO",
+					"codigo": "05690",
+					"poblacion": "12324",
+					"entidades": []
+				},
+				"05697": {
+					"nombre": "EL SANTUARIO",
+					"codigo": "05697",
+					"poblacion": "36605",
+					"entidades": []
+				},
+				"05736": {
+					"nombre": "SEGOVIA",
+					"codigo": "05736",
+					"poblacion": "39379",
+					"entidades": []
+				},
+				"05756": {
+					"nombre": "SONSON",
+					"codigo": "05756",
+					"poblacion": "36625",
+					"entidades": []
+				},
+				"05761": {
+					"nombre": "SOPETRAN",
+					"codigo": "05761",
+					"poblacion": "15512",
+					"entidades": []
+				},
+				"05789": {
+					"nombre": "TAMESIS",
+					"codigo": "05789",
+					"poblacion": "16201",
+					"entidades": []
+				},
+				"05790": {
+					"nombre": "TARAZA",
+					"codigo": "05790",
+					"poblacion": "27995",
+					"entidades": []
+				},
+				"05792": {
+					"nombre": "TARSO",
+					"codigo": "05792",
+					"poblacion": "6231",
+					"entidades": []
+				},
+				"05809": {
+					"nombre": "TITIRIBI",
+					"codigo": "05809",
+					"poblacion": "10719",
+					"entidades": []
+				},
+				"05819": {
+					"nombre": "TOLEDO",
+					"codigo": "05819",
+					"poblacion": "5043",
+					"entidades": []
+				},
+				"05837": {
+					"nombre": "TURBO",
+					"codigo": "05837",
+					"poblacion": "130191",
+					"entidades": []
+				},
+				"05842": {
+					"nombre": "URAMITA",
+					"codigo": "05842",
+					"poblacion": "6899",
+					"entidades": []
+				},
+				"05847": {
+					"nombre": "URRAO",
+					"codigo": "05847",
+					"poblacion": "30876",
+					"entidades": []
+				},
+				"05854": {
+					"nombre": "VALDIVIA",
+					"codigo": "05854",
+					"poblacion": "14102",
+					"entidades": []
+				},
+				"05856": {
+					"nombre": "VALPARAISO",
+					"codigo": "05856",
+					"poblacion": "6472",
+					"entidades": []
+				},
+				"05858": {
+					"nombre": "VEGACHI",
+					"codigo": "05858",
+					"poblacion": "12039",
+					"entidades": []
+				},
+				"05861": {
+					"nombre": "VENECIA",
+					"codigo": "05861",
+					"poblacion": "11715",
+					"entidades": []
+				},
+				"05873": {
+					"nombre": "VIGIA DEL FUERTE",
+					"codigo": "05873",
+					"poblacion": "9423",
+					"entidades": []
+				},
+				"05885": {
+					"nombre": "YALI",
+					"codigo": "05885",
+					"poblacion": "7681",
+					"entidades": []
+				},
+				"05887": {
+					"nombre": "YARUMAL",
+					"codigo": "05887",
+					"poblacion": "42678",
+					"entidades": []
+				},
+				"05890": {
+					"nombre": "YOLOMBO",
+					"codigo": "05890",
+					"poblacion": "23501",
+					"entidades": []
+				},
+				"05893": {
+					"nombre": "YONDO",
+					"codigo": "05893",
+					"poblacion": "20110",
+					"entidades": []
+				},
+				"05895": {
+					"nombre": "ZARAGOZA",
+					"codigo": "05895",
+					"poblacion": "25703",
+					"entidades": []
+				}
+			}
+		},
+		"08": {
+			"nombre": "ATLANTICO",
+			"codigo": "08",
+			"poblacion": "2722128",
+			"entidades": {
+				"08001": {
+					"nombre": "BARRANQUILLA",
+					"codigo": "08001",
+					"poblacion": "1274250",
+					"entidades": []
+				},
+				"08078": {
+					"nombre": "BARANOA",
+					"codigo": "08078",
+					"poblacion": "67050",
+					"entidades": []
+				},
+				"08137": {
+					"nombre": "CAMPO DE LA CRUZ",
+					"codigo": "08137",
+					"poblacion": "23567",
+					"entidades": []
+				},
+				"08141": {
+					"nombre": "CANDELARIA",
+					"codigo": "08141",
+					"poblacion": "17195",
+					"entidades": []
+				},
+				"08296": {
+					"nombre": "GALAPA",
+					"codigo": "08296",
+					"poblacion": "67021",
+					"entidades": []
+				},
+				"08372": {
+					"nombre": "JUAN DE ACOSTA",
+					"codigo": "08372",
+					"poblacion": "22752",
+					"entidades": []
+				},
+				"08421": {
+					"nombre": "LURUACO",
+					"codigo": "08421",
+					"poblacion": "30314",
+					"entidades": []
+				},
+				"08433": {
+					"nombre": "MALAMBO",
+					"codigo": "08433",
+					"poblacion": "139566",
+					"entidades": []
+				},
+				"08436": {
+					"nombre": "MANATI",
+					"codigo": "08436",
+					"poblacion": "21442",
+					"entidades": []
+				},
+				"08520": {
+					"nombre": "PALMAR DE VARELA",
+					"codigo": "08520",
+					"poblacion": "31038",
+					"entidades": []
+				},
+				"08549": {
+					"nombre": "PIOJO",
+					"codigo": "08549",
+					"poblacion": "7089",
+					"entidades": []
+				},
+				"08558": {
+					"nombre": "POLONUEVO",
+					"codigo": "08558",
+					"poblacion": "19545",
+					"entidades": []
+				},
+				"08560": {
+					"nombre": "PONEDERA",
+					"codigo": "08560",
+					"poblacion": "25728",
+					"entidades": []
+				},
+				"08573": {
+					"nombre": "PUERTO COLOMBIA",
+					"codigo": "08573",
+					"poblacion": "53649",
+					"entidades": []
+				},
+				"08606": {
+					"nombre": "REPELON",
+					"codigo": "08606",
+					"poblacion": "28102",
+					"entidades": []
+				},
+				"08634": {
+					"nombre": "SABANAGRANDE",
+					"codigo": "08634",
+					"poblacion": "35084",
+					"entidades": []
+				},
+				"08638": {
+					"nombre": "SABANALARGA",
+					"codigo": "08638",
+					"poblacion": "100049",
+					"entidades": []
+				},
+				"08675": {
+					"nombre": "SANTA LUCIA",
+					"codigo": "08675",
+					"poblacion": "17104",
+					"entidades": []
+				},
+				"08685": {
+					"nombre": "SANTO TOMAS",
+					"codigo": "08685",
+					"poblacion": "32000",
+					"entidades": []
+				},
+				"08758": {
+					"nombre": "SOLEDAD",
+					"codigo": "08758",
+					"poblacion": "665021",
+					"entidades": []
+				},
+				"08770": {
+					"nombre": "SUAN",
+					"codigo": "08770",
+					"poblacion": "12572",
+					"entidades": []
+				},
+				"08832": {
+					"nombre": "TUBARA",
+					"codigo": "08832",
+					"poblacion": "18846",
+					"entidades": []
+				},
+				"08849": {
+					"nombre": "USIACURI",
+					"codigo": "08849",
+					"poblacion": "13144",
+					"entidades": []
+				}
+			}
+		},
+		"11": {
+			"nombre": "BOGOTA, D.C.",
+			"codigo": "11",
+			"poblacion": "7743955",
+			"entidades": {}
+		},
+		"13": {
+			"nombre": "BOLIVAR",
+			"codigo": "13",
+			"poblacion": "2180976",
+			"entidades": {
+				"13001": {
+					"nombre": "CARTAGENA",
+					"codigo": "13001",
+					"poblacion": "1028736",
+					"entidades": []
+				},
+				"13006": {
+					"nombre": "ACHI",
+					"codigo": "13006",
+					"poblacion": "24900",
+					"entidades": []
+				},
+				"13030": {
+					"nombre": "ALTOS DEL ROSARIO",
+					"codigo": "13030",
+					"poblacion": "11585",
+					"entidades": []
+				},
+				"13042": {
+					"nombre": "ARENAL",
+					"codigo": "13042",
+					"poblacion": "7775",
+					"entidades": []
+				},
+				"13052": {
+					"nombre": "ARJONA",
+					"codigo": "13052",
+					"poblacion": "73730",
+					"entidades": []
+				},
+				"13062": {
+					"nombre": "ARROYOHONDO",
+					"codigo": "13062",
+					"poblacion": "8710",
+					"entidades": []
+				},
+				"13074": {
+					"nombre": "BARRANCO DE LOBA",
+					"codigo": "13074",
+					"poblacion": "15181",
+					"entidades": []
+				},
+				"13140": {
+					"nombre": "CALAMAR",
+					"codigo": "13140",
+					"poblacion": "23097",
+					"entidades": []
+				},
+				"13160": {
+					"nombre": "CANTAGALLO",
+					"codigo": "13160",
+					"poblacion": "8696",
+					"entidades": []
+				},
+				"13188": {
+					"nombre": "CICUCO",
+					"codigo": "13188",
+					"poblacion": "14302",
+					"entidades": []
+				},
+				"13212": {
+					"nombre": "CORDOBA",
+					"codigo": "13212",
+					"poblacion": "16474",
+					"entidades": []
+				},
+				"13222": {
+					"nombre": "CLEMENCIA",
+					"codigo": "13222",
+					"poblacion": "15453",
+					"entidades": []
+				},
+				"13244": {
+					"nombre": "EL CARMEN DE BOLIVAR",
+					"codigo": "13244",
+					"poblacion": "72595",
+					"entidades": []
+				},
+				"13248": {
+					"nombre": "EL GUAMO",
+					"codigo": "13248",
+					"poblacion": "8984",
+					"entidades": []
+				},
+				"13268": {
+					"nombre": "EL PE\u00d1ON",
+					"codigo": "13268",
+					"poblacion": "8075",
+					"entidades": []
+				},
+				"13300": {
+					"nombre": "HATILLO DE LOBA",
+					"codigo": "13300",
+					"poblacion": "13012",
+					"entidades": []
+				},
+				"13430": {
+					"nombre": "MAGANGUE",
+					"codigo": "13430",
+					"poblacion": "140156",
+					"entidades": []
+				},
+				"13433": {
+					"nombre": "MAHATES",
+					"codigo": "13433",
+					"poblacion": "29355",
+					"entidades": []
+				},
+				"13440": {
+					"nombre": "MARGARITA",
+					"codigo": "13440",
+					"poblacion": "11110",
+					"entidades": []
+				},
+				"13442": {
+					"nombre": "MARIA LA BAJA",
+					"codigo": "13442",
+					"poblacion": "48457",
+					"entidades": []
+				},
+				"13458": {
+					"nombre": "MONTECRISTO",
+					"codigo": "13458",
+					"poblacion": "17604",
+					"entidades": []
+				},
+				"13468": {
+					"nombre": "MOMPOS",
+					"codigo": "13468",
+					"poblacion": "46408",
+					"entidades": []
+				},
+				"13473": {
+					"nombre": "MORALES",
+					"codigo": "13473",
+					"poblacion": "23348",
+					"entidades": []
+				},
+				"13490": {
+					"nombre": "NOROSI",
+					"codigo": "13490",
+					"poblacion": "9953",
+					"entidades": []
+				},
+				"13549": {
+					"nombre": "PINILLOS",
+					"codigo": "13549",
+					"poblacion": "24706",
+					"entidades": []
+				},
+				"13580": {
+					"nombre": "REGIDOR",
+					"codigo": "13580",
+					"poblacion": "7227",
+					"entidades": []
+				},
+				"13600": {
+					"nombre": "RIO VIEJO",
+					"codigo": "13600",
+					"poblacion": "10736",
+					"entidades": []
+				},
+				"13620": {
+					"nombre": "SAN CRISTOBAL",
+					"codigo": "13620",
+					"poblacion": "8569",
+					"entidades": []
+				},
+				"13647": {
+					"nombre": "SAN ESTANISLAO",
+					"codigo": "13647",
+					"poblacion": "19128",
+					"entidades": []
+				},
+				"13650": {
+					"nombre": "SAN FERNANDO",
+					"codigo": "13650",
+					"poblacion": "13025",
+					"entidades": []
+				},
+				"13654": {
+					"nombre": "SAN JACINTO",
+					"codigo": "13654",
+					"poblacion": "24552",
+					"entidades": []
+				},
+				"13655": {
+					"nombre": "SAN JACINTO DEL CAUCA",
+					"codigo": "13655",
+					"poblacion": "10643",
+					"entidades": []
+				},
+				"13657": {
+					"nombre": "SAN JUAN NEPOMUCENO",
+					"codigo": "13657",
+					"poblacion": "38529",
+					"entidades": []
+				},
+				"13667": {
+					"nombre": "SAN MARTIN DE LOBA",
+					"codigo": "13667",
+					"poblacion": "14897",
+					"entidades": []
+				},
+				"13670": {
+					"nombre": "SAN PABLO",
+					"codigo": "13670",
+					"poblacion": "28741",
+					"entidades": []
+				},
+				"13673": {
+					"nombre": "SANTA CATALINA",
+					"codigo": "13673",
+					"poblacion": "14948",
+					"entidades": []
+				},
+				"13683": {
+					"nombre": "SANTA ROSA",
+					"codigo": "13683",
+					"poblacion": "22409",
+					"entidades": []
+				},
+				"13688": {
+					"nombre": "SANTA ROSA DEL SUR",
+					"codigo": "13688",
+					"poblacion": "34568",
+					"entidades": []
+				},
+				"13744": {
+					"nombre": "SIMITI",
+					"codigo": "13744",
+					"poblacion": "19143",
+					"entidades": []
+				},
+				"13760": {
+					"nombre": "SOPLAVIENTO",
+					"codigo": "13760",
+					"poblacion": "10839",
+					"entidades": []
+				},
+				"13780": {
+					"nombre": "TALAIGUA NUEVO",
+					"codigo": "13780",
+					"poblacion": "13181",
+					"entidades": []
+				},
+				"13810": {
+					"nombre": "TIQUISIO",
+					"codigo": "13810",
+					"poblacion": "19034",
+					"entidades": []
+				},
+				"13836": {
+					"nombre": "TURBACO",
+					"codigo": "13836",
+					"poblacion": "113440",
+					"entidades": []
+				},
+				"13838": {
+					"nombre": "TURBANA",
+					"codigo": "13838",
+					"poblacion": "17412",
+					"entidades": []
+				},
+				"13873": {
+					"nombre": "VILLANUEVA",
+					"codigo": "13873",
+					"poblacion": "25231",
+					"entidades": []
+				},
+				"13894": {
+					"nombre": "ZAMBRANO",
+					"codigo": "13894",
+					"poblacion": "12322",
+					"entidades": []
+				}
+			}
+		},
+		"15": {
+			"nombre": "BOYACA",
+			"codigo": "15",
+			"poblacion": "1242731",
+			"entidades": {
+				"15001": {
+					"nombre": "TUNJA",
+					"codigo": "15001",
+					"poblacion": "179263",
+					"entidades": []
+				},
+				"15022": {
+					"nombre": "ALMEIDA",
+					"codigo": "15022",
+					"poblacion": "1807",
+					"entidades": []
+				},
+				"15047": {
+					"nombre": "AQUITANIA",
+					"codigo": "15047",
+					"poblacion": "15546",
+					"entidades": []
+				},
+				"15051": {
+					"nombre": "ARCABUCO",
+					"codigo": "15051",
+					"poblacion": "5978",
+					"entidades": []
+				},
+				"15087": {
+					"nombre": "BELEN",
+					"codigo": "15087",
+					"poblacion": "7532",
+					"entidades": []
+				},
+				"15090": {
+					"nombre": "BERBEO",
+					"codigo": "15090",
+					"poblacion": "1582",
+					"entidades": []
+				},
+				"15092": {
+					"nombre": "BETEITIVA",
+					"codigo": "15092",
+					"poblacion": "1935",
+					"entidades": []
+				},
+				"15097": {
+					"nombre": "BOAVITA",
+					"codigo": "15097",
+					"poblacion": "4797",
+					"entidades": []
+				},
+				"15104": {
+					"nombre": "BOYACA",
+					"codigo": "15104",
+					"poblacion": "5118",
+					"entidades": []
+				},
+				"15106": {
+					"nombre": "BRICE\u00d1O",
+					"codigo": "15106",
+					"poblacion": "2163",
+					"entidades": []
+				},
+				"15109": {
+					"nombre": "BUENAVISTA",
+					"codigo": "15109",
+					"poblacion": "4396",
+					"entidades": []
+				},
+				"15114": {
+					"nombre": "BUSBANZA",
+					"codigo": "15114",
+					"poblacion": "1153",
+					"entidades": []
+				},
+				"15131": {
+					"nombre": "CALDAS",
+					"codigo": "15131",
+					"poblacion": "3126",
+					"entidades": []
+				},
+				"15135": {
+					"nombre": "CAMPOHERMOSO",
+					"codigo": "15135",
+					"poblacion": "3061",
+					"entidades": []
+				},
+				"15162": {
+					"nombre": "CERINZA",
+					"codigo": "15162",
+					"poblacion": "3706",
+					"entidades": []
+				},
+				"15172": {
+					"nombre": "CHINAVITA",
+					"codigo": "15172",
+					"poblacion": "3194",
+					"entidades": []
+				},
+				"15176": {
+					"nombre": "CHIQUINQUIRA",
+					"codigo": "15176",
+					"poblacion": "57935",
+					"entidades": []
+				},
+				"15180": {
+					"nombre": "CHISCAS",
+					"codigo": "15180",
+					"poblacion": "3887",
+					"entidades": []
+				},
+				"15183": {
+					"nombre": "CHITA",
+					"codigo": "15183",
+					"poblacion": "7793",
+					"entidades": []
+				},
+				"15185": {
+					"nombre": "CHITARAQUE",
+					"codigo": "15185",
+					"poblacion": "5865",
+					"entidades": []
+				},
+				"15187": {
+					"nombre": "CHIVATA",
+					"codigo": "15187",
+					"poblacion": "2834",
+					"entidades": []
+				},
+				"15189": {
+					"nombre": "CIENEGA",
+					"codigo": "15189",
+					"poblacion": "4655",
+					"entidades": []
+				},
+				"15204": {
+					"nombre": "COMBITA",
+					"codigo": "15204",
+					"poblacion": "13280",
+					"entidades": []
+				},
+				"15212": {
+					"nombre": "COPER",
+					"codigo": "15212",
+					"poblacion": "3571",
+					"entidades": []
+				},
+				"15215": {
+					"nombre": "CORRALES",
+					"codigo": "15215",
+					"poblacion": "2545",
+					"entidades": []
+				},
+				"15218": {
+					"nombre": "COVARACHIA",
+					"codigo": "15218",
+					"poblacion": "2702",
+					"entidades": []
+				},
+				"15223": {
+					"nombre": "CUBARA",
+					"codigo": "15223",
+					"poblacion": "10750",
+					"entidades": []
+				},
+				"15224": {
+					"nombre": "CUCAITA",
+					"codigo": "15224",
+					"poblacion": "3787",
+					"entidades": []
+				},
+				"15226": {
+					"nombre": "CUITIVA",
+					"codigo": "15226",
+					"poblacion": "1810",
+					"entidades": []
+				},
+				"15232": {
+					"nombre": "CHIQUIZA",
+					"codigo": "15232",
+					"poblacion": "4744",
+					"entidades": []
+				},
+				"15236": {
+					"nombre": "CHIVOR",
+					"codigo": "15236",
+					"poblacion": "2526",
+					"entidades": []
+				},
+				"15238": {
+					"nombre": "DUITAMA",
+					"codigo": "15238",
+					"poblacion": "126670",
+					"entidades": []
+				},
+				"15244": {
+					"nombre": "EL COCUY",
+					"codigo": "15244",
+					"poblacion": "4115",
+					"entidades": []
+				},
+				"15248": {
+					"nombre": "EL ESPINO",
+					"codigo": "15248",
+					"poblacion": "3054",
+					"entidades": []
+				},
+				"15272": {
+					"nombre": "FIRAVITOBA",
+					"codigo": "15272",
+					"poblacion": "6802",
+					"entidades": []
+				},
+				"15276": {
+					"nombre": "FLORESTA",
+					"codigo": "15276",
+					"poblacion": "3231",
+					"entidades": []
+				},
+				"15293": {
+					"nombre": "GACHANTIVA",
+					"codigo": "15293",
+					"poblacion": "2778",
+					"entidades": []
+				},
+				"15296": {
+					"nombre": "GAMEZA",
+					"codigo": "15296",
+					"poblacion": "4851",
+					"entidades": []
+				},
+				"15299": {
+					"nombre": "GARAGOA",
+					"codigo": "15299",
+					"poblacion": "18322",
+					"entidades": []
+				},
+				"15317": {
+					"nombre": "GUACAMAYAS",
+					"codigo": "15317",
+					"poblacion": "1834",
+					"entidades": []
+				},
+				"15322": {
+					"nombre": "GUATEQUE",
+					"codigo": "15322",
+					"poblacion": "10904",
+					"entidades": []
+				},
+				"15325": {
+					"nombre": "GUAYATA",
+					"codigo": "15325",
+					"poblacion": "3391",
+					"entidades": []
+				},
+				"15332": {
+					"nombre": "GUICAN DE LA SIERRA",
+					"codigo": "15332",
+					"poblacion": "4301",
+					"entidades": []
+				},
+				"15362": {
+					"nombre": "IZA",
+					"codigo": "15362",
+					"poblacion": "1995",
+					"entidades": []
+				},
+				"15367": {
+					"nombre": "JENESANO",
+					"codigo": "15367",
+					"poblacion": "7338",
+					"entidades": []
+				},
+				"15368": {
+					"nombre": "JERICO",
+					"codigo": "15368",
+					"poblacion": "3889",
+					"entidades": []
+				},
+				"15377": {
+					"nombre": "LABRANZAGRANDE",
+					"codigo": "15377",
+					"poblacion": "3493",
+					"entidades": []
+				},
+				"15380": {
+					"nombre": "LA CAPILLA",
+					"codigo": "15380",
+					"poblacion": "2691",
+					"entidades": []
+				},
+				"15401": {
+					"nombre": "LA VICTORIA",
+					"codigo": "15401",
+					"poblacion": "1117",
+					"entidades": []
+				},
+				"15403": {
+					"nombre": "LA UVITA",
+					"codigo": "15403",
+					"poblacion": "2730",
+					"entidades": []
+				},
+				"15407": {
+					"nombre": "VILLA DE LEYVA",
+					"codigo": "15407",
+					"poblacion": "16973",
+					"entidades": []
+				},
+				"15425": {
+					"nombre": "MACANAL",
+					"codigo": "15425",
+					"poblacion": "5072",
+					"entidades": []
+				},
+				"15442": {
+					"nombre": "MARIPI",
+					"codigo": "15442",
+					"poblacion": "5683",
+					"entidades": []
+				},
+				"15455": {
+					"nombre": "MIRAFLORES",
+					"codigo": "15455",
+					"poblacion": "9015",
+					"entidades": []
+				},
+				"15464": {
+					"nombre": "MONGUA",
+					"codigo": "15464",
+					"poblacion": "4619",
+					"entidades": []
+				},
+				"15466": {
+					"nombre": "MONGUI",
+					"codigo": "15466",
+					"poblacion": "4292",
+					"entidades": []
+				},
+				"15469": {
+					"nombre": "MONIQUIRA",
+					"codigo": "15469",
+					"poblacion": "23036",
+					"entidades": []
+				},
+				"15476": {
+					"nombre": "MOTAVITA",
+					"codigo": "15476",
+					"poblacion": "5703",
+					"entidades": []
+				},
+				"15480": {
+					"nombre": "MUZO",
+					"codigo": "15480",
+					"poblacion": "8394",
+					"entidades": []
+				},
+				"15491": {
+					"nombre": "NOBSA",
+					"codigo": "15491",
+					"poblacion": "16446",
+					"entidades": []
+				},
+				"15494": {
+					"nombre": "NUEVO COLON",
+					"codigo": "15494",
+					"poblacion": "5217",
+					"entidades": []
+				},
+				"15500": {
+					"nombre": "OICATA",
+					"codigo": "15500",
+					"poblacion": "2890",
+					"entidades": []
+				},
+				"15507": {
+					"nombre": "OTANCHE",
+					"codigo": "15507",
+					"poblacion": "8004",
+					"entidades": []
+				},
+				"15511": {
+					"nombre": "PACHAVITA",
+					"codigo": "15511",
+					"poblacion": "2441",
+					"entidades": []
+				},
+				"15514": {
+					"nombre": "PAEZ",
+					"codigo": "15514",
+					"poblacion": "3244",
+					"entidades": []
+				},
+				"15516": {
+					"nombre": "PAIPA",
+					"codigo": "15516",
+					"poblacion": "34679",
+					"entidades": []
+				},
+				"15518": {
+					"nombre": "PAJARITO",
+					"codigo": "15518",
+					"poblacion": "2414",
+					"entidades": []
+				},
+				"15522": {
+					"nombre": "PANQUEBA",
+					"codigo": "15522",
+					"poblacion": "1697",
+					"entidades": []
+				},
+				"15531": {
+					"nombre": "PAUNA",
+					"codigo": "15531",
+					"poblacion": "7212",
+					"entidades": []
+				},
+				"15533": {
+					"nombre": "PAYA",
+					"codigo": "15533",
+					"poblacion": "2635",
+					"entidades": []
+				},
+				"15537": {
+					"nombre": "PAZ DE RIO",
+					"codigo": "15537",
+					"poblacion": "4198",
+					"entidades": []
+				},
+				"15542": {
+					"nombre": "PESCA",
+					"codigo": "15542",
+					"poblacion": "6730",
+					"entidades": []
+				},
+				"15550": {
+					"nombre": "PISBA",
+					"codigo": "15550",
+					"poblacion": "1793",
+					"entidades": []
+				},
+				"15572": {
+					"nombre": "PUERTO BOYACA",
+					"codigo": "15572",
+					"poblacion": "48271",
+					"entidades": []
+				},
+				"15580": {
+					"nombre": "QUIPAMA",
+					"codigo": "15580",
+					"poblacion": "4982",
+					"entidades": []
+				},
+				"15599": {
+					"nombre": "RAMIRIQUI",
+					"codigo": "15599",
+					"poblacion": "10076",
+					"entidades": []
+				},
+				"15600": {
+					"nombre": "RAQUIRA",
+					"codigo": "15600",
+					"poblacion": "8028",
+					"entidades": []
+				},
+				"15621": {
+					"nombre": "RONDON",
+					"codigo": "15621",
+					"poblacion": "2373",
+					"entidades": []
+				},
+				"15632": {
+					"nombre": "SABOYA",
+					"codigo": "15632",
+					"poblacion": "13849",
+					"entidades": []
+				},
+				"15638": {
+					"nombre": "SACHICA",
+					"codigo": "15638",
+					"poblacion": "5677",
+					"entidades": []
+				},
+				"15646": {
+					"nombre": "SAMACA",
+					"codigo": "15646",
+					"poblacion": "18818",
+					"entidades": []
+				},
+				"15660": {
+					"nombre": "SAN EDUARDO",
+					"codigo": "15660",
+					"poblacion": "1660",
+					"entidades": []
+				},
+				"15664": {
+					"nombre": "SAN JOSE DE PARE",
+					"codigo": "15664",
+					"poblacion": "4999",
+					"entidades": []
+				},
+				"15667": {
+					"nombre": "SAN LUIS DE GACENO",
+					"codigo": "15667",
+					"poblacion": "5473",
+					"entidades": []
+				},
+				"15673": {
+					"nombre": "SAN MATEO",
+					"codigo": "15673",
+					"poblacion": "3131",
+					"entidades": []
+				},
+				"15676": {
+					"nombre": "SAN MIGUEL DE SEMA",
+					"codigo": "15676",
+					"poblacion": "3011",
+					"entidades": []
+				},
+				"15681": {
+					"nombre": "SAN PABLO DE BORBUR",
+					"codigo": "15681",
+					"poblacion": "6716",
+					"entidades": []
+				},
+				"15686": {
+					"nombre": "SANTANA",
+					"codigo": "15686",
+					"poblacion": "7710",
+					"entidades": []
+				},
+				"15690": {
+					"nombre": "SANTA MARIA",
+					"codigo": "15690",
+					"poblacion": "3498",
+					"entidades": []
+				},
+				"15693": {
+					"nombre": "SANTA ROSA DE VITERBO",
+					"codigo": "15693",
+					"poblacion": "13325",
+					"entidades": []
+				},
+				"15696": {
+					"nombre": "SANTA SOFIA",
+					"codigo": "15696",
+					"poblacion": "3212",
+					"entidades": []
+				},
+				"15720": {
+					"nombre": "SATIVANORTE",
+					"codigo": "15720",
+					"poblacion": "2153",
+					"entidades": []
+				},
+				"15723": {
+					"nombre": "SATIVASUR",
+					"codigo": "15723",
+					"poblacion": "1105",
+					"entidades": []
+				},
+				"15740": {
+					"nombre": "SIACHOQUE",
+					"codigo": "15740",
+					"poblacion": "6774",
+					"entidades": []
+				},
+				"15753": {
+					"nombre": "SOATA",
+					"codigo": "15753",
+					"poblacion": "8832",
+					"entidades": []
+				},
+				"15755": {
+					"nombre": "SOCOTA",
+					"codigo": "15755",
+					"poblacion": "7211",
+					"entidades": []
+				},
+				"15757": {
+					"nombre": "SOCHA",
+					"codigo": "15757",
+					"poblacion": "8086",
+					"entidades": []
+				},
+				"15759": {
+					"nombre": "SOGAMOSO",
+					"codigo": "15759",
+					"poblacion": "131105",
+					"entidades": []
+				},
+				"15761": {
+					"nombre": "SOMONDOCO",
+					"codigo": "15761",
+					"poblacion": "2880",
+					"entidades": []
+				},
+				"15762": {
+					"nombre": "SORA",
+					"codigo": "15762",
+					"poblacion": "3077",
+					"entidades": []
+				},
+				"15763": {
+					"nombre": "SOTAQUIRA",
+					"codigo": "15763",
+					"poblacion": "8305",
+					"entidades": []
+				},
+				"15764": {
+					"nombre": "SORACA",
+					"codigo": "15764",
+					"poblacion": "6068",
+					"entidades": []
+				},
+				"15774": {
+					"nombre": "SUSACON",
+					"codigo": "15774",
+					"poblacion": "2704",
+					"entidades": []
+				},
+				"15776": {
+					"nombre": "SUTAMARCHAN",
+					"codigo": "15776",
+					"poblacion": "6228",
+					"entidades": []
+				},
+				"15778": {
+					"nombre": "SUTATENZA",
+					"codigo": "15778",
+					"poblacion": "4222",
+					"entidades": []
+				},
+				"15790": {
+					"nombre": "TASCO",
+					"codigo": "15790",
+					"poblacion": "5792",
+					"entidades": []
+				},
+				"15798": {
+					"nombre": "TENZA",
+					"codigo": "15798",
+					"poblacion": "3821",
+					"entidades": []
+				},
+				"15804": {
+					"nombre": "TIBANA",
+					"codigo": "15804",
+					"poblacion": "9119",
+					"entidades": []
+				},
+				"15806": {
+					"nombre": "TIBASOSA",
+					"codigo": "15806",
+					"poblacion": "13396",
+					"entidades": []
+				},
+				"15808": {
+					"nombre": "TINJACA",
+					"codigo": "15808",
+					"poblacion": "3351",
+					"entidades": []
+				},
+				"15810": {
+					"nombre": "TIPACOQUE",
+					"codigo": "15810",
+					"poblacion": "3290",
+					"entidades": []
+				},
+				"15814": {
+					"nombre": "TOCA",
+					"codigo": "15814",
+					"poblacion": "8893",
+					"entidades": []
+				},
+				"15816": {
+					"nombre": "TOGUI",
+					"codigo": "15816",
+					"poblacion": "4335",
+					"entidades": []
+				},
+				"15820": {
+					"nombre": "TOPAGA",
+					"codigo": "15820",
+					"poblacion": "3697",
+					"entidades": []
+				},
+				"15822": {
+					"nombre": "TOTA",
+					"codigo": "15822",
+					"poblacion": "5233",
+					"entidades": []
+				},
+				"15832": {
+					"nombre": "TUNUNGUA",
+					"codigo": "15832",
+					"poblacion": "1576",
+					"entidades": []
+				},
+				"15835": {
+					"nombre": "TURMEQUE",
+					"codigo": "15835",
+					"poblacion": "6156",
+					"entidades": []
+				},
+				"15837": {
+					"nombre": "TUTA",
+					"codigo": "15837",
+					"poblacion": "8461",
+					"entidades": []
+				},
+				"15839": {
+					"nombre": "TUTAZA",
+					"codigo": "15839",
+					"poblacion": "2039",
+					"entidades": []
+				},
+				"15842": {
+					"nombre": "UMBITA",
+					"codigo": "15842",
+					"poblacion": "7552",
+					"entidades": []
+				},
+				"15861": {
+					"nombre": "VENTAQUEMADA",
+					"codigo": "15861",
+					"poblacion": "16093",
+					"entidades": []
+				},
+				"15879": {
+					"nombre": "VIRACACHA",
+					"codigo": "15879",
+					"poblacion": "2809",
+					"entidades": []
+				},
+				"15897": {
+					"nombre": "ZETAQUIRA",
+					"codigo": "15897",
+					"poblacion": "4625",
+					"entidades": []
+				}
+			}
+		},
+		"17": {
+			"nombre": "CALDAS",
+			"codigo": "17",
+			"poblacion": "1018453",
+			"entidades": {
+				"17001": {
+					"nombre": "MANIZALES",
+					"codigo": "17001",
+					"poblacion": "446160",
+					"entidades": []
+				},
+				"17013": {
+					"nombre": "AGUADAS",
+					"codigo": "17013",
+					"poblacion": "23048",
+					"entidades": []
+				},
+				"17042": {
+					"nombre": "ANSERMA",
+					"codigo": "17042",
+					"poblacion": "36691",
+					"entidades": []
+				},
+				"17050": {
+					"nombre": "ARANZAZU",
+					"codigo": "17050",
+					"poblacion": "10556",
+					"entidades": []
+				},
+				"17088": {
+					"nombre": "BELALCAZAR",
+					"codigo": "17088",
+					"poblacion": "10650",
+					"entidades": []
+				},
+				"17174": {
+					"nombre": "CHINCHINA",
+					"codigo": "17174",
+					"poblacion": "52267",
+					"entidades": []
+				},
+				"17272": {
+					"nombre": "FILADELFIA",
+					"codigo": "17272",
+					"poblacion": "11400",
+					"entidades": []
+				},
+				"17380": {
+					"nombre": "LA DORADA",
+					"codigo": "17380",
+					"poblacion": "74006",
+					"entidades": []
+				},
+				"17388": {
+					"nombre": "LA MERCED",
+					"codigo": "17388",
+					"poblacion": "5882",
+					"entidades": []
+				},
+				"17433": {
+					"nombre": "MANZANARES",
+					"codigo": "17433",
+					"poblacion": "17794",
+					"entidades": []
+				},
+				"17442": {
+					"nombre": "MARMATO",
+					"codigo": "17442",
+					"poblacion": "9167",
+					"entidades": []
+				},
+				"17444": {
+					"nombre": "MARQUETALIA",
+					"codigo": "17444",
+					"poblacion": "13490",
+					"entidades": []
+				},
+				"17446": {
+					"nombre": "MARULANDA",
+					"codigo": "17446",
+					"poblacion": "2544",
+					"entidades": []
+				},
+				"17486": {
+					"nombre": "NEIRA",
+					"codigo": "17486",
+					"poblacion": "21114",
+					"entidades": []
+				},
+				"17495": {
+					"nombre": "NORCASIA",
+					"codigo": "17495",
+					"poblacion": "6128",
+					"entidades": []
+				},
+				"17513": {
+					"nombre": "PACORA",
+					"codigo": "17513",
+					"poblacion": "15324",
+					"entidades": []
+				},
+				"17524": {
+					"nombre": "PALESTINA",
+					"codigo": "17524",
+					"poblacion": "15681",
+					"entidades": []
+				},
+				"17541": {
+					"nombre": "PENSILVANIA",
+					"codigo": "17541",
+					"poblacion": "19755",
+					"entidades": []
+				},
+				"17614": {
+					"nombre": "RIOSUCIO",
+					"codigo": "17614",
+					"poblacion": "51956",
+					"entidades": []
+				},
+				"17616": {
+					"nombre": "RISARALDA",
+					"codigo": "17616",
+					"poblacion": "10568",
+					"entidades": []
+				},
+				"17653": {
+					"nombre": "SALAMINA",
+					"codigo": "17653",
+					"poblacion": "19393",
+					"entidades": []
+				},
+				"17662": {
+					"nombre": "SAMANA",
+					"codigo": "17662",
+					"poblacion": "19967",
+					"entidades": []
+				},
+				"17665": {
+					"nombre": "SAN JOSE",
+					"codigo": "17665",
+					"poblacion": "4916",
+					"entidades": []
+				},
+				"17777": {
+					"nombre": "SUPIA",
+					"codigo": "17777",
+					"poblacion": "29363",
+					"entidades": []
+				},
+				"17867": {
+					"nombre": "VICTORIA",
+					"codigo": "17867",
+					"poblacion": "10351",
+					"entidades": []
+				},
+				"17873": {
+					"nombre": "VILLAMARIA",
+					"codigo": "17873",
+					"poblacion": "67429",
+					"entidades": []
+				},
+				"17877": {
+					"nombre": "VITERBO",
+					"codigo": "17877",
+					"poblacion": "12853",
+					"entidades": []
+				}
+			}
+		},
+		"18": {
+			"nombre": "CAQUETA",
+			"codigo": "18",
+			"poblacion": "410521",
+			"entidades": {
+				"18001": {
+					"nombre": "FLORENCIA",
+					"codigo": "18001",
+					"poblacion": "173011",
+					"entidades": []
+				},
+				"18029": {
+					"nombre": "ALBANIA",
+					"codigo": "18029",
+					"poblacion": "4396",
+					"entidades": []
+				},
+				"18094": {
+					"nombre": "BELEN DE LOS ANDAQUIES",
+					"codigo": "18094",
+					"poblacion": "11181",
+					"entidades": []
+				},
+				"18150": {
+					"nombre": "CARTAGENA DEL CHAIRA",
+					"codigo": "18150",
+					"poblacion": "31151",
+					"entidades": []
+				},
+				"18205": {
+					"nombre": "CURILLO",
+					"codigo": "18205",
+					"poblacion": "7772",
+					"entidades": []
+				},
+				"18247": {
+					"nombre": "EL DONCELLO",
+					"codigo": "18247",
+					"poblacion": "19284",
+					"entidades": []
+				},
+				"18256": {
+					"nombre": "EL PAUJIL",
+					"codigo": "18256",
+					"poblacion": "18464",
+					"entidades": []
+				},
+				"18410": {
+					"nombre": "LA MONTA\u00d1ITA",
+					"codigo": "18410",
+					"poblacion": "14692",
+					"entidades": []
+				},
+				"18460": {
+					"nombre": "MILAN",
+					"codigo": "18460",
+					"poblacion": "9952",
+					"entidades": []
+				},
+				"18479": {
+					"nombre": "MORELIA",
+					"codigo": "18479",
+					"poblacion": "3747",
+					"entidades": []
+				},
+				"18592": {
+					"nombre": "PUERTO RICO",
+					"codigo": "18592",
+					"poblacion": "26282",
+					"entidades": []
+				},
+				"18610": {
+					"nombre": "SAN JOSE DEL FRAGUA",
+					"codigo": "18610",
+					"poblacion": "13099",
+					"entidades": []
+				},
+				"18753": {
+					"nombre": "SAN VICENTE DEL CAGUAN",
+					"codigo": "18753",
+					"poblacion": "52593",
+					"entidades": []
+				},
+				"18756": {
+					"nombre": "SOLANO",
+					"codigo": "18756",
+					"poblacion": "11503",
+					"entidades": []
+				},
+				"18785": {
+					"nombre": "SOLITA",
+					"codigo": "18785",
+					"poblacion": "6346",
+					"entidades": []
+				},
+				"18860": {
+					"nombre": "VALPARAISO",
+					"codigo": "18860",
+					"poblacion": "7048",
+					"entidades": []
+				}
+			}
+		},
+		"19": {
+			"nombre": "CAUCA",
+			"codigo": "19",
+			"poblacion": "1491937",
+			"entidades": {
+				"19001": {
+					"nombre": "POPAYAN",
+					"codigo": "19001",
+					"poblacion": "325477",
+					"entidades": []
+				},
+				"19022": {
+					"nombre": "ALMAGUER",
+					"codigo": "19022",
+					"poblacion": "18177",
+					"entidades": []
+				},
+				"19050": {
+					"nombre": "ARGELIA",
+					"codigo": "19050",
+					"poblacion": "26588",
+					"entidades": []
+				},
+				"19075": {
+					"nombre": "BALBOA",
+					"codigo": "19075",
+					"poblacion": "21437",
+					"entidades": []
+				},
+				"19100": {
+					"nombre": "BOLIVAR",
+					"codigo": "19100",
+					"poblacion": "36994",
+					"entidades": []
+				},
+				"19110": {
+					"nombre": "BUENOS AIRES",
+					"codigo": "19110",
+					"poblacion": "32049",
+					"entidades": []
+				},
+				"19130": {
+					"nombre": "CAJIBIO",
+					"codigo": "19130",
+					"poblacion": "42833",
+					"entidades": []
+				},
+				"19137": {
+					"nombre": "CALDONO",
+					"codigo": "19137",
+					"poblacion": "41770",
+					"entidades": []
+				},
+				"19142": {
+					"nombre": "CALOTO",
+					"codigo": "19142",
+					"poblacion": "30216",
+					"entidades": []
+				},
+				"19212": {
+					"nombre": "CORINTO",
+					"codigo": "19212",
+					"poblacion": "25440",
+					"entidades": []
+				},
+				"19256": {
+					"nombre": "EL TAMBO",
+					"codigo": "19256",
+					"poblacion": "53769",
+					"entidades": []
+				},
+				"19290": {
+					"nombre": "FLORENCIA",
+					"codigo": "19290",
+					"poblacion": "5303",
+					"entidades": []
+				},
+				"19300": {
+					"nombre": "GUACHENE",
+					"codigo": "19300",
+					"poblacion": "20020",
+					"entidades": []
+				},
+				"19318": {
+					"nombre": "GUAPI",
+					"codigo": "19318",
+					"poblacion": "27696",
+					"entidades": []
+				},
+				"19355": {
+					"nombre": "INZA",
+					"codigo": "19355",
+					"poblacion": "29441",
+					"entidades": []
+				},
+				"19364": {
+					"nombre": "JAMBALO",
+					"codigo": "19364",
+					"poblacion": "18568",
+					"entidades": []
+				},
+				"19392": {
+					"nombre": "LA SIERRA",
+					"codigo": "19392",
+					"poblacion": "10655",
+					"entidades": []
+				},
+				"19397": {
+					"nombre": "LA VEGA",
+					"codigo": "19397",
+					"poblacion": "24642",
+					"entidades": []
+				},
+				"19418": {
+					"nombre": "LOPEZ DE MICAY",
+					"codigo": "19418",
+					"poblacion": "18932",
+					"entidades": []
+				},
+				"19450": {
+					"nombre": "MERCADERES",
+					"codigo": "19450",
+					"poblacion": "23097",
+					"entidades": []
+				},
+				"19455": {
+					"nombre": "MIRANDA",
+					"codigo": "19455",
+					"poblacion": "32082",
+					"entidades": []
+				},
+				"19473": {
+					"nombre": "MORALES",
+					"codigo": "19473",
+					"poblacion": "40084",
+					"entidades": []
+				},
+				"19513": {
+					"nombre": "PADILLA",
+					"codigo": "19513",
+					"poblacion": "9992",
+					"entidades": []
+				},
+				"19517": {
+					"nombre": "PAEZ",
+					"codigo": "19517",
+					"poblacion": "46742",
+					"entidades": []
+				},
+				"19532": {
+					"nombre": "PATIA",
+					"codigo": "19532",
+					"poblacion": "37494",
+					"entidades": []
+				},
+				"19533": {
+					"nombre": "PIAMONTE",
+					"codigo": "19533",
+					"poblacion": "9259",
+					"entidades": []
+				},
+				"19548": {
+					"nombre": "PIENDAMO - TUNIA",
+					"codigo": "19548",
+					"poblacion": "41837",
+					"entidades": []
+				},
+				"19573": {
+					"nombre": "PUERTO TEJADA",
+					"codigo": "19573",
+					"poblacion": "41793",
+					"entidades": []
+				},
+				"19585": {
+					"nombre": "PURACE",
+					"codigo": "19585",
+					"poblacion": "17569",
+					"entidades": []
+				},
+				"19622": {
+					"nombre": "ROSAS",
+					"codigo": "19622",
+					"poblacion": "11539",
+					"entidades": []
+				},
+				"19693": {
+					"nombre": "SAN SEBASTIAN",
+					"codigo": "19693",
+					"poblacion": "11062",
+					"entidades": []
+				},
+				"19698": {
+					"nombre": "SANTANDER DE QUILICHAO",
+					"codigo": "19698",
+					"poblacion": "113001",
+					"entidades": []
+				},
+				"19701": {
+					"nombre": "SANTA ROSA",
+					"codigo": "19701",
+					"poblacion": "5383",
+					"entidades": []
+				},
+				"19743": {
+					"nombre": "SILVIA",
+					"codigo": "19743",
+					"poblacion": "38063",
+					"entidades": []
+				},
+				"19760": {
+					"nombre": "SOTARA",
+					"codigo": "19760",
+					"poblacion": "14210",
+					"entidades": []
+				},
+				"19780": {
+					"nombre": "SUAREZ",
+					"codigo": "19780",
+					"poblacion": "32526",
+					"entidades": []
+				},
+				"19785": {
+					"nombre": "SUCRE",
+					"codigo": "19785",
+					"poblacion": "9669",
+					"entidades": []
+				},
+				"19807": {
+					"nombre": "TIMBIO",
+					"codigo": "19807",
+					"poblacion": "36287",
+					"entidades": []
+				},
+				"19809": {
+					"nombre": "TIMBIQUI",
+					"codigo": "19809",
+					"poblacion": "26607",
+					"entidades": []
+				},
+				"19821": {
+					"nombre": "TORIBIO",
+					"codigo": "19821",
+					"poblacion": "36694",
+					"entidades": []
+				},
+				"19824": {
+					"nombre": "TOTORO",
+					"codigo": "19824",
+					"poblacion": "25612",
+					"entidades": []
+				},
+				"19845": {
+					"nombre": "VILLA RICA",
+					"codigo": "19845",
+					"poblacion": "21328",
+					"entidades": []
+				}
+			}
+		},
+		"20": {
+			"nombre": "CESAR",
+			"codigo": "20",
+			"poblacion": "1295387",
+			"entidades": {
+				"20001": {
+					"nombre": "VALLEDUPAR",
+					"codigo": "20001",
+					"poblacion": "532956",
+					"entidades": []
+				},
+				"20011": {
+					"nombre": "AGUACHICA",
+					"codigo": "20011",
+					"poblacion": "118652",
+					"entidades": []
+				},
+				"20013": {
+					"nombre": "AGUSTIN CODAZZI",
+					"codigo": "20013",
+					"poblacion": "64676",
+					"entidades": []
+				},
+				"20032": {
+					"nombre": "ASTREA",
+					"codigo": "20032",
+					"poblacion": "21062",
+					"entidades": []
+				},
+				"20045": {
+					"nombre": "BECERRIL",
+					"codigo": "20045",
+					"poblacion": "23308",
+					"entidades": []
+				},
+				"20060": {
+					"nombre": "BOSCONIA",
+					"codigo": "20060",
+					"poblacion": "43326",
+					"entidades": []
+				},
+				"20175": {
+					"nombre": "CHIMICHAGUA",
+					"codigo": "20175",
+					"poblacion": "36229",
+					"entidades": []
+				},
+				"20178": {
+					"nombre": "CHIRIGUANA",
+					"codigo": "20178",
+					"poblacion": "29632",
+					"entidades": []
+				},
+				"20228": {
+					"nombre": "CURUMANI",
+					"codigo": "20228",
+					"poblacion": "39667",
+					"entidades": []
+				},
+				"20238": {
+					"nombre": "EL COPEY",
+					"codigo": "20238",
+					"poblacion": "31650",
+					"entidades": []
+				},
+				"20250": {
+					"nombre": "EL PASO",
+					"codigo": "20250",
+					"poblacion": "40858",
+					"entidades": []
+				},
+				"20295": {
+					"nombre": "GAMARRA",
+					"codigo": "20295",
+					"poblacion": "15864",
+					"entidades": []
+				},
+				"20310": {
+					"nombre": "GONZALEZ",
+					"codigo": "20310",
+					"poblacion": "4568",
+					"entidades": []
+				},
+				"20383": {
+					"nombre": "LA GLORIA",
+					"codigo": "20383",
+					"poblacion": "18448",
+					"entidades": []
+				},
+				"20400": {
+					"nombre": "LA JAGUA DE IBIRICO",
+					"codigo": "20400",
+					"poblacion": "50946",
+					"entidades": []
+				},
+				"20443": {
+					"nombre": "MANAURE BALCON DEL CESAR",
+					"codigo": "20443",
+					"poblacion": "10835",
+					"entidades": []
+				},
+				"20517": {
+					"nombre": "PAILITAS",
+					"codigo": "20517",
+					"poblacion": "19705",
+					"entidades": []
+				},
+				"20550": {
+					"nombre": "PELAYA",
+					"codigo": "20550",
+					"poblacion": "22291",
+					"entidades": []
+				},
+				"20570": {
+					"nombre": "PUEBLO BELLO",
+					"codigo": "20570",
+					"poblacion": "29437",
+					"entidades": []
+				},
+				"20614": {
+					"nombre": "RIO DE ORO",
+					"codigo": "20614",
+					"poblacion": "17793",
+					"entidades": []
+				},
+				"20621": {
+					"nombre": "LA PAZ",
+					"codigo": "20621",
+					"poblacion": "29603",
+					"entidades": []
+				},
+				"20710": {
+					"nombre": "SAN ALBERTO",
+					"codigo": "20710",
+					"poblacion": "28453",
+					"entidades": []
+				},
+				"20750": {
+					"nombre": "SAN DIEGO",
+					"codigo": "20750",
+					"poblacion": "20470",
+					"entidades": []
+				},
+				"20770": {
+					"nombre": "SAN MARTIN",
+					"codigo": "20770",
+					"poblacion": "28769",
+					"entidades": []
+				},
+				"20787": {
+					"nombre": "TAMALAMEQUE",
+					"codigo": "20787",
+					"poblacion": "16189",
+					"entidades": []
+				}
+			}
+		},
+		"23": {
+			"nombre": "CORDOBA",
+			"codigo": "23",
+			"poblacion": "1828947",
+			"entidades": {
+				"23001": {
+					"nombre": "MONTERIA",
+					"codigo": "23001",
+					"poblacion": "505334",
+					"entidades": []
+				},
+				"23068": {
+					"nombre": "AYAPEL",
+					"codigo": "23068",
+					"poblacion": "47247",
+					"entidades": []
+				},
+				"23079": {
+					"nombre": "BUENAVISTA",
+					"codigo": "23079",
+					"poblacion": "21451",
+					"entidades": []
+				},
+				"23090": {
+					"nombre": "CANALETE",
+					"codigo": "23090",
+					"poblacion": "15437",
+					"entidades": []
+				},
+				"23162": {
+					"nombre": "CERETE",
+					"codigo": "23162",
+					"poblacion": "108409",
+					"entidades": []
+				},
+				"23168": {
+					"nombre": "CHIMA",
+					"codigo": "23168",
+					"poblacion": "17905",
+					"entidades": []
+				},
+				"23182": {
+					"nombre": "CHINU",
+					"codigo": "23182",
+					"poblacion": "48694",
+					"entidades": []
+				},
+				"23189": {
+					"nombre": "CIENAGA DE ORO",
+					"codigo": "23189",
+					"poblacion": "60521",
+					"entidades": []
+				},
+				"23300": {
+					"nombre": "COTORRA",
+					"codigo": "23300",
+					"poblacion": "19549",
+					"entidades": []
+				},
+				"23350": {
+					"nombre": "LA APARTADA",
+					"codigo": "23350",
+					"poblacion": "15218",
+					"entidades": []
+				},
+				"23417": {
+					"nombre": "LORICA",
+					"codigo": "23417",
+					"poblacion": "115461",
+					"entidades": []
+				},
+				"23419": {
+					"nombre": "LOS CORDOBAS",
+					"codigo": "23419",
+					"poblacion": "19314",
+					"entidades": []
+				},
+				"23464": {
+					"nombre": "MOMIL",
+					"codigo": "23464",
+					"poblacion": "20117",
+					"entidades": []
+				},
+				"23466": {
+					"nombre": "MONTELIBANO",
+					"codigo": "23466",
+					"poblacion": "85885",
+					"entidades": []
+				},
+				"23500": {
+					"nombre": "MO\u00d1ITOS",
+					"codigo": "23500",
+					"poblacion": "30580",
+					"entidades": []
+				},
+				"23555": {
+					"nombre": "PLANETA RICA",
+					"codigo": "23555",
+					"poblacion": "64776",
+					"entidades": []
+				},
+				"23570": {
+					"nombre": "PUEBLO NUEVO",
+					"codigo": "23570",
+					"poblacion": "36486",
+					"entidades": []
+				},
+				"23574": {
+					"nombre": "PUERTO ESCONDIDO",
+					"codigo": "23574",
+					"poblacion": "24364",
+					"entidades": []
+				},
+				"23580": {
+					"nombre": "PUERTO LIBERTADOR",
+					"codigo": "23580",
+					"poblacion": "43573",
+					"entidades": []
+				},
+				"23586": {
+					"nombre": "PURISIMA DE LA CONCEPCION",
+					"codigo": "23586",
+					"poblacion": "17587",
+					"entidades": []
+				},
+				"23660": {
+					"nombre": "SAHAGUN",
+					"codigo": "23660",
+					"poblacion": "110233",
+					"entidades": []
+				},
+				"23670": {
+					"nombre": "SAN ANDRES DE SOTAVENTO",
+					"codigo": "23670",
+					"poblacion": "48042",
+					"entidades": []
+				},
+				"23672": {
+					"nombre": "SAN ANTERO",
+					"codigo": "23672",
+					"poblacion": "35035",
+					"entidades": []
+				},
+				"23675": {
+					"nombre": "SAN BERNARDO DEL VIENTO",
+					"codigo": "23675",
+					"poblacion": "37075",
+					"entidades": []
+				},
+				"23678": {
+					"nombre": "SAN CARLOS",
+					"codigo": "23678",
+					"poblacion": "27368",
+					"entidades": []
+				},
+				"23682": {
+					"nombre": "SAN JOSE DE URE",
+					"codigo": "23682",
+					"poblacion": "13814",
+					"entidades": []
+				},
+				"23686": {
+					"nombre": "SAN PELAYO",
+					"codigo": "23686",
+					"poblacion": "52994",
+					"entidades": []
+				},
+				"23807": {
+					"nombre": "TIERRALTA",
+					"codigo": "23807",
+					"poblacion": "95177",
+					"entidades": []
+				},
+				"23815": {
+					"nombre": "TUCHIN",
+					"codigo": "23815",
+					"poblacion": "54958",
+					"entidades": []
+				},
+				"23855": {
+					"nombre": "VALENCIA",
+					"codigo": "23855",
+					"poblacion": "36343",
+					"entidades": []
+				}
+			}
+		},
+		"25": {
+			"nombre": "CUNDINAMARCA",
+			"codigo": "25",
+			"poblacion": "3242999",
+			"entidades": {
+				"25001": {
+					"nombre": "AGUA DE DIOS",
+					"codigo": "25001",
+					"poblacion": "12325",
+					"entidades": []
+				},
+				"25019": {
+					"nombre": "ALBAN",
+					"codigo": "25019",
+					"poblacion": "6879",
+					"entidades": []
+				},
+				"25035": {
+					"nombre": "ANAPOIMA",
+					"codigo": "25035",
+					"poblacion": "16064",
+					"entidades": []
+				},
+				"25040": {
+					"nombre": "ANOLAIMA",
+					"codigo": "25040",
+					"poblacion": "14577",
+					"entidades": []
+				},
+				"25053": {
+					"nombre": "ARBELAEZ",
+					"codigo": "25053",
+					"poblacion": "10959",
+					"entidades": []
+				},
+				"25086": {
+					"nombre": "BELTRAN",
+					"codigo": "25086",
+					"poblacion": "1885",
+					"entidades": []
+				},
+				"25095": {
+					"nombre": "BITUIMA",
+					"codigo": "25095",
+					"poblacion": "2568",
+					"entidades": []
+				},
+				"25099": {
+					"nombre": "BOJACA",
+					"codigo": "25099",
+					"poblacion": "11092",
+					"entidades": []
+				},
+				"25120": {
+					"nombre": "CABRERA",
+					"codigo": "25120",
+					"poblacion": "5062",
+					"entidades": []
+				},
+				"25123": {
+					"nombre": "CACHIPAY",
+					"codigo": "25123",
+					"poblacion": "10703",
+					"entidades": []
+				},
+				"25126": {
+					"nombre": "CAJICA",
+					"codigo": "25126",
+					"poblacion": "92967",
+					"entidades": []
+				},
+				"25148": {
+					"nombre": "CAPARRAPI",
+					"codigo": "25148",
+					"poblacion": "12990",
+					"entidades": []
+				},
+				"25151": {
+					"nombre": "CAQUEZA",
+					"codigo": "25151",
+					"poblacion": "17956",
+					"entidades": []
+				},
+				"25154": {
+					"nombre": "CARMEN DE CARUPA",
+					"codigo": "25154",
+					"poblacion": "7940",
+					"entidades": []
+				},
+				"25168": {
+					"nombre": "CHAGUANI",
+					"codigo": "25168",
+					"poblacion": "4364",
+					"entidades": []
+				},
+				"25175": {
+					"nombre": "CHIA",
+					"codigo": "25175",
+					"poblacion": "149570",
+					"entidades": []
+				},
+				"25178": {
+					"nombre": "CHIPAQUE",
+					"codigo": "25178",
+					"poblacion": "10058",
+					"entidades": []
+				},
+				"25181": {
+					"nombre": "CHOACHI",
+					"codigo": "25181",
+					"poblacion": "11528",
+					"entidades": []
+				},
+				"25183": {
+					"nombre": "CHOCONTA",
+					"codigo": "25183",
+					"poblacion": "22278",
+					"entidades": []
+				},
+				"25200": {
+					"nombre": "COGUA",
+					"codigo": "25200",
+					"poblacion": "24434",
+					"entidades": []
+				},
+				"25214": {
+					"nombre": "COTA",
+					"codigo": "25214",
+					"poblacion": "36992",
+					"entidades": []
+				},
+				"25224": {
+					"nombre": "CUCUNUBA",
+					"codigo": "25224",
+					"poblacion": "8257",
+					"entidades": []
+				},
+				"25245": {
+					"nombre": "EL COLEGIO",
+					"codigo": "25245",
+					"poblacion": "26176",
+					"entidades": []
+				},
+				"25258": {
+					"nombre": "EL PE\u00d1ON",
+					"codigo": "25258",
+					"poblacion": "4789",
+					"entidades": []
+				},
+				"25260": {
+					"nombre": "EL ROSAL",
+					"codigo": "25260",
+					"poblacion": "24768",
+					"entidades": []
+				},
+				"25269": {
+					"nombre": "FACATATIVA",
+					"codigo": "25269",
+					"poblacion": "155978",
+					"entidades": []
+				},
+				"25279": {
+					"nombre": "FOMEQUE",
+					"codigo": "25279",
+					"poblacion": "12803",
+					"entidades": []
+				},
+				"25281": {
+					"nombre": "FOSCA",
+					"codigo": "25281",
+					"poblacion": "6038",
+					"entidades": []
+				},
+				"25286": {
+					"nombre": "FUNZA",
+					"codigo": "25286",
+					"poblacion": "105086",
+					"entidades": []
+				},
+				"25288": {
+					"nombre": "FUQUENE",
+					"codigo": "25288",
+					"poblacion": "5211",
+					"entidades": []
+				},
+				"25290": {
+					"nombre": "FUSAGASUGA",
+					"codigo": "25290",
+					"poblacion": "154143",
+					"entidades": []
+				},
+				"25293": {
+					"nombre": "GACHALA",
+					"codigo": "25293",
+					"poblacion": "4405",
+					"entidades": []
+				},
+				"25295": {
+					"nombre": "GACHANCIPA",
+					"codigo": "25295",
+					"poblacion": "19376",
+					"entidades": []
+				},
+				"25297": {
+					"nombre": "GACHETA",
+					"codigo": "25297",
+					"poblacion": "8539",
+					"entidades": []
+				},
+				"25299": {
+					"nombre": "GAMA",
+					"codigo": "25299",
+					"poblacion": "3214",
+					"entidades": []
+				},
+				"25307": {
+					"nombre": "GIRARDOT",
+					"codigo": "25307",
+					"poblacion": "109792",
+					"entidades": []
+				},
+				"25312": {
+					"nombre": "GRANADA",
+					"codigo": "25312",
+					"poblacion": "7931",
+					"entidades": []
+				},
+				"25317": {
+					"nombre": "GUACHETA",
+					"codigo": "25317",
+					"poblacion": "14241",
+					"entidades": []
+				},
+				"25320": {
+					"nombre": "GUADUAS",
+					"codigo": "25320",
+					"poblacion": "33212",
+					"entidades": []
+				},
+				"25322": {
+					"nombre": "GUASCA",
+					"codigo": "25322",
+					"poblacion": "16934",
+					"entidades": []
+				},
+				"25324": {
+					"nombre": "GUATAQUI",
+					"codigo": "25324",
+					"poblacion": "2772",
+					"entidades": []
+				},
+				"25326": {
+					"nombre": "GUATAVITA",
+					"codigo": "25326",
+					"poblacion": "6811",
+					"entidades": []
+				},
+				"25328": {
+					"nombre": "GUAYABAL DE SIQUIMA",
+					"codigo": "25328",
+					"poblacion": "4743",
+					"entidades": []
+				},
+				"25335": {
+					"nombre": "GUAYABETAL",
+					"codigo": "25335",
+					"poblacion": "6744",
+					"entidades": []
+				},
+				"25339": {
+					"nombre": "GUTIERREZ",
+					"codigo": "25339",
+					"poblacion": "3567",
+					"entidades": []
+				},
+				"25368": {
+					"nombre": "JERUSALEN",
+					"codigo": "25368",
+					"poblacion": "2315",
+					"entidades": []
+				},
+				"25372": {
+					"nombre": "JUNIN",
+					"codigo": "25372",
+					"poblacion": "6074",
+					"entidades": []
+				},
+				"25377": {
+					"nombre": "LA CALERA",
+					"codigo": "25377",
+					"poblacion": "32917",
+					"entidades": []
+				},
+				"25386": {
+					"nombre": "LA MESA",
+					"codigo": "25386",
+					"poblacion": "36129",
+					"entidades": []
+				},
+				"25394": {
+					"nombre": "LA PALMA",
+					"codigo": "25394",
+					"poblacion": "9810",
+					"entidades": []
+				},
+				"25398": {
+					"nombre": "LA PE\u00d1A",
+					"codigo": "25398",
+					"poblacion": "6095",
+					"entidades": []
+				},
+				"25402": {
+					"nombre": "LA VEGA",
+					"codigo": "25402",
+					"poblacion": "18642",
+					"entidades": []
+				},
+				"25407": {
+					"nombre": "LENGUAZAQUE",
+					"codigo": "25407",
+					"poblacion": "10794",
+					"entidades": []
+				},
+				"25426": {
+					"nombre": "MACHETA",
+					"codigo": "25426",
+					"poblacion": "6278",
+					"entidades": []
+				},
+				"25430": {
+					"nombre": "MADRID",
+					"codigo": "25430",
+					"poblacion": "127138",
+					"entidades": []
+				},
+				"25436": {
+					"nombre": "MANTA",
+					"codigo": "25436",
+					"poblacion": "3893",
+					"entidades": []
+				},
+				"25438": {
+					"nombre": "MEDINA",
+					"codigo": "25438",
+					"poblacion": "8211",
+					"entidades": []
+				},
+				"25473": {
+					"nombre": "MOSQUERA",
+					"codigo": "25473",
+					"poblacion": "150665",
+					"entidades": []
+				},
+				"25483": {
+					"nombre": "NARI\u00d1O",
+					"codigo": "25483",
+					"poblacion": "2464",
+					"entidades": []
+				},
+				"25486": {
+					"nombre": "NEMOCON",
+					"codigo": "25486",
+					"poblacion": "14532",
+					"entidades": []
+				},
+				"25488": {
+					"nombre": "NILO",
+					"codigo": "25488",
+					"poblacion": "12028",
+					"entidades": []
+				},
+				"25489": {
+					"nombre": "NIMAIMA",
+					"codigo": "25489",
+					"poblacion": "3763",
+					"entidades": []
+				},
+				"25491": {
+					"nombre": "NOCAIMA",
+					"codigo": "25491",
+					"poblacion": "6562",
+					"entidades": []
+				},
+				"25506": {
+					"nombre": "VENECIA",
+					"codigo": "25506",
+					"poblacion": "4449",
+					"entidades": []
+				},
+				"25513": {
+					"nombre": "PACHO",
+					"codigo": "25513",
+					"poblacion": "25803",
+					"entidades": []
+				},
+				"25518": {
+					"nombre": "PAIME",
+					"codigo": "25518",
+					"poblacion": "4279",
+					"entidades": []
+				},
+				"25524": {
+					"nombre": "PANDI",
+					"codigo": "25524",
+					"poblacion": "5334",
+					"entidades": []
+				},
+				"25530": {
+					"nombre": "PARATEBUENO",
+					"codigo": "25530",
+					"poblacion": "9218",
+					"entidades": []
+				},
+				"25535": {
+					"nombre": "PASCA",
+					"codigo": "25535",
+					"poblacion": "9626",
+					"entidades": []
+				},
+				"25572": {
+					"nombre": "PUERTO SALGAR",
+					"codigo": "25572",
+					"poblacion": "16671",
+					"entidades": []
+				},
+				"25580": {
+					"nombre": "PULI",
+					"codigo": "25580",
+					"poblacion": "3438",
+					"entidades": []
+				},
+				"25592": {
+					"nombre": "QUEBRADANEGRA",
+					"codigo": "25592",
+					"poblacion": "4927",
+					"entidades": []
+				},
+				"25594": {
+					"nombre": "QUETAME",
+					"codigo": "25594",
+					"poblacion": "5315",
+					"entidades": []
+				},
+				"25596": {
+					"nombre": "QUIPILE",
+					"codigo": "25596",
+					"poblacion": "6536",
+					"entidades": []
+				},
+				"25599": {
+					"nombre": "APULO",
+					"codigo": "25599",
+					"poblacion": "8747",
+					"entidades": []
+				},
+				"25612": {
+					"nombre": "RICAURTE",
+					"codigo": "25612",
+					"poblacion": "14367",
+					"entidades": []
+				},
+				"25645": {
+					"nombre": "SAN ANTONIO DEL TEQUENDAMA",
+					"codigo": "25645",
+					"poblacion": "12829",
+					"entidades": []
+				},
+				"25649": {
+					"nombre": "SAN BERNARDO",
+					"codigo": "25649",
+					"poblacion": "8984",
+					"entidades": []
+				},
+				"25653": {
+					"nombre": "SAN CAYETANO",
+					"codigo": "25653",
+					"poblacion": "4978",
+					"entidades": []
+				},
+				"25658": {
+					"nombre": "SAN FRANCISCO",
+					"codigo": "25658",
+					"poblacion": "11844",
+					"entidades": []
+				},
+				"25662": {
+					"nombre": "SAN JUAN DE RIOSECO",
+					"codigo": "25662",
+					"poblacion": "8537",
+					"entidades": []
+				},
+				"25718": {
+					"nombre": "SASAIMA",
+					"codigo": "25718",
+					"poblacion": "11521",
+					"entidades": []
+				},
+				"25736": {
+					"nombre": "SESQUILE",
+					"codigo": "25736",
+					"poblacion": "12645",
+					"entidades": []
+				},
+				"25740": {
+					"nombre": "SIBATE",
+					"codigo": "25740",
+					"poblacion": "36658",
+					"entidades": []
+				},
+				"25743": {
+					"nombre": "SILVANIA",
+					"codigo": "25743",
+					"poblacion": "23489",
+					"entidades": []
+				},
+				"25745": {
+					"nombre": "SIMIJACA",
+					"codigo": "25745",
+					"poblacion": "14062",
+					"entidades": []
+				},
+				"25754": {
+					"nombre": "SOACHA",
+					"codigo": "25754",
+					"poblacion": "753548",
+					"entidades": []
+				},
+				"25758": {
+					"nombre": "SOPO",
+					"codigo": "25758",
+					"poblacion": "28999",
+					"entidades": []
+				},
+				"25769": {
+					"nombre": "SUBACHOQUE",
+					"codigo": "25769",
+					"poblacion": "16743",
+					"entidades": []
+				},
+				"25772": {
+					"nombre": "SUESCA",
+					"codigo": "25772",
+					"poblacion": "18741",
+					"entidades": []
+				},
+				"25777": {
+					"nombre": "SUPATA",
+					"codigo": "25777",
+					"poblacion": "5543",
+					"entidades": []
+				},
+				"25779": {
+					"nombre": "SUSA",
+					"codigo": "25779",
+					"poblacion": "7067",
+					"entidades": []
+				},
+				"25781": {
+					"nombre": "SUTATAUSA",
+					"codigo": "25781",
+					"poblacion": "6441",
+					"entidades": []
+				},
+				"25785": {
+					"nombre": "TABIO",
+					"codigo": "25785",
+					"poblacion": "24206",
+					"entidades": []
+				},
+				"25793": {
+					"nombre": "TAUSA",
+					"codigo": "25793",
+					"poblacion": "8654",
+					"entidades": []
+				},
+				"25797": {
+					"nombre": "TENA",
+					"codigo": "25797",
+					"poblacion": "10531",
+					"entidades": []
+				},
+				"25799": {
+					"nombre": "TENJO",
+					"codigo": "25799",
+					"poblacion": "24096",
+					"entidades": []
+				},
+				"25805": {
+					"nombre": "TIBACUY",
+					"codigo": "25805",
+					"poblacion": "4639",
+					"entidades": []
+				},
+				"25807": {
+					"nombre": "TIBIRITA",
+					"codigo": "25807",
+					"poblacion": "3285",
+					"entidades": []
+				},
+				"25815": {
+					"nombre": "TOCAIMA",
+					"codigo": "25815",
+					"poblacion": "16611",
+					"entidades": []
+				},
+				"25817": {
+					"nombre": "TOCANCIPA",
+					"codigo": "25817",
+					"poblacion": "45714",
+					"entidades": []
+				},
+				"25823": {
+					"nombre": "TOPAIPI",
+					"codigo": "25823",
+					"poblacion": "4284",
+					"entidades": []
+				},
+				"25839": {
+					"nombre": "UBALA",
+					"codigo": "25839",
+					"poblacion": "7789",
+					"entidades": []
+				},
+				"25841": {
+					"nombre": "UBAQUE",
+					"codigo": "25841",
+					"poblacion": "7067",
+					"entidades": []
+				},
+				"25843": {
+					"nombre": "VILLA DE SAN DIEGO DE UBATE",
+					"codigo": "25843",
+					"poblacion": "46911",
+					"entidades": []
+				},
+				"25845": {
+					"nombre": "UNE",
+					"codigo": "25845",
+					"poblacion": "7371",
+					"entidades": []
+				},
+				"25851": {
+					"nombre": "UTICA",
+					"codigo": "25851",
+					"poblacion": "4434",
+					"entidades": []
+				},
+				"25862": {
+					"nombre": "VERGARA",
+					"codigo": "25862",
+					"poblacion": "7167",
+					"entidades": []
+				},
+				"25867": {
+					"nombre": "VIANI",
+					"codigo": "25867",
+					"poblacion": "4667",
+					"entidades": []
+				},
+				"25871": {
+					"nombre": "VILLAGOMEZ",
+					"codigo": "25871",
+					"poblacion": "1826",
+					"entidades": []
+				},
+				"25873": {
+					"nombre": "VILLAPINZON",
+					"codigo": "25873",
+					"poblacion": "18433",
+					"entidades": []
+				},
+				"25875": {
+					"nombre": "VILLETA",
+					"codigo": "25875",
+					"poblacion": "29128",
+					"entidades": []
+				},
+				"25878": {
+					"nombre": "VIOTA",
+					"codigo": "25878",
+					"poblacion": "13878",
+					"entidades": []
+				},
+				"25885": {
+					"nombre": "YACOPI",
+					"codigo": "25885",
+					"poblacion": "12564",
+					"entidades": []
+				},
+				"25898": {
+					"nombre": "ZIPACON",
+					"codigo": "25898",
+					"poblacion": "5022",
+					"entidades": []
+				},
+				"25899": {
+					"nombre": "ZIPAQUIRA",
+					"codigo": "25899",
+					"poblacion": "146352",
+					"entidades": []
+				}
+			}
+		},
+		"27": {
+			"nombre": "CHOCO",
+			"codigo": "27",
+			"poblacion": "544764",
+			"entidades": {
+				"27001": {
+					"nombre": "QUIBDO",
+					"codigo": "27001",
+					"poblacion": "130825",
+					"entidades": []
+				},
+				"27006": {
+					"nombre": "ACANDI",
+					"codigo": "27006",
+					"poblacion": "14159",
+					"entidades": []
+				},
+				"27025": {
+					"nombre": "ALTO BAUDO",
+					"codigo": "27025",
+					"poblacion": "28293",
+					"entidades": []
+				},
+				"27050": {
+					"nombre": "ATRATO",
+					"codigo": "27050",
+					"poblacion": "6208",
+					"entidades": []
+				},
+				"27073": {
+					"nombre": "BAGADO",
+					"codigo": "27073",
+					"poblacion": "11262",
+					"entidades": []
+				},
+				"27075": {
+					"nombre": "BAHIA SOLANO",
+					"codigo": "27075",
+					"poblacion": "10279",
+					"entidades": []
+				},
+				"27077": {
+					"nombre": "BAJO BAUDO",
+					"codigo": "27077",
+					"poblacion": "30472",
+					"entidades": []
+				},
+				"27099": {
+					"nombre": "BOJAYA",
+					"codigo": "27099",
+					"poblacion": "12326",
+					"entidades": []
+				},
+				"27135": {
+					"nombre": "EL CANTON DEL SAN PABLO",
+					"codigo": "27135",
+					"poblacion": "6286",
+					"entidades": []
+				},
+				"27150": {
+					"nombre": "CARMEN DEL DARIEN",
+					"codigo": "27150",
+					"poblacion": "19509",
+					"entidades": []
+				},
+				"27160": {
+					"nombre": "CERTEGUI",
+					"codigo": "27160",
+					"poblacion": "5760",
+					"entidades": []
+				},
+				"27205": {
+					"nombre": "CONDOTO",
+					"codigo": "27205",
+					"poblacion": "12367",
+					"entidades": []
+				},
+				"27245": {
+					"nombre": "EL CARMEN DE ATRATO",
+					"codigo": "27245",
+					"poblacion": "8212",
+					"entidades": []
+				},
+				"27250": {
+					"nombre": "EL LITORAL DEL SAN JUAN",
+					"codigo": "27250",
+					"poblacion": "22890",
+					"entidades": []
+				},
+				"27361": {
+					"nombre": "ISTMINA",
+					"codigo": "27361",
+					"poblacion": "30806",
+					"entidades": []
+				},
+				"27372": {
+					"nombre": "JURADO",
+					"codigo": "27372",
+					"poblacion": "6841",
+					"entidades": []
+				},
+				"27413": {
+					"nombre": "LLORO",
+					"codigo": "27413",
+					"poblacion": "9913",
+					"entidades": []
+				},
+				"27425": {
+					"nombre": "MEDIO ATRATO",
+					"codigo": "27425",
+					"poblacion": "10930",
+					"entidades": []
+				},
+				"27430": {
+					"nombre": "MEDIO BAUDO",
+					"codigo": "27430",
+					"poblacion": "15683",
+					"entidades": []
+				},
+				"27450": {
+					"nombre": "MEDIO SAN JUAN",
+					"codigo": "27450",
+					"poblacion": "10826",
+					"entidades": []
+				},
+				"27491": {
+					"nombre": "NOVITA",
+					"codigo": "27491",
+					"poblacion": "9105",
+					"entidades": []
+				},
+				"27495": {
+					"nombre": "NUQUI",
+					"codigo": "27495",
+					"poblacion": "16642",
+					"entidades": []
+				},
+				"27580": {
+					"nombre": "RIO IRO",
+					"codigo": "27580",
+					"poblacion": "5592",
+					"entidades": []
+				},
+				"27600": {
+					"nombre": "RIO QUITO",
+					"codigo": "27600",
+					"poblacion": "8448",
+					"entidades": []
+				},
+				"27615": {
+					"nombre": "RIOSUCIO",
+					"codigo": "27615",
+					"poblacion": "55232",
+					"entidades": []
+				},
+				"27660": {
+					"nombre": "SAN JOSE DEL PALMAR",
+					"codigo": "27660",
+					"poblacion": "4961",
+					"entidades": []
+				},
+				"27745": {
+					"nombre": "SIPI",
+					"codigo": "27745",
+					"poblacion": "3220",
+					"entidades": []
+				},
+				"27787": {
+					"nombre": "TADO",
+					"codigo": "27787",
+					"poblacion": "17913",
+					"entidades": []
+				},
+				"27800": {
+					"nombre": "UNGUIA",
+					"codigo": "27800",
+					"poblacion": "12822",
+					"entidades": []
+				},
+				"27810": {
+					"nombre": "UNION PANAMERICANA",
+					"codigo": "27810",
+					"poblacion": "6982",
+					"entidades": []
+				}
+			}
+		},
+		"41": {
+			"nombre": "HUILA",
+			"codigo": "41",
+			"poblacion": "1122622",
+			"entidades": {
+				"41001": {
+					"nombre": "NEIVA",
+					"codigo": "41001",
+					"poblacion": "364408",
+					"entidades": []
+				},
+				"41006": {
+					"nombre": "ACEVEDO",
+					"codigo": "41006",
+					"poblacion": "25298",
+					"entidades": []
+				},
+				"41013": {
+					"nombre": "AGRADO",
+					"codigo": "41013",
+					"poblacion": "8937",
+					"entidades": []
+				},
+				"41016": {
+					"nombre": "AIPE",
+					"codigo": "41016",
+					"poblacion": "16546",
+					"entidades": []
+				},
+				"41020": {
+					"nombre": "ALGECIRAS",
+					"codigo": "41020",
+					"poblacion": "22575",
+					"entidades": []
+				},
+				"41026": {
+					"nombre": "ALTAMIRA",
+					"codigo": "41026",
+					"poblacion": "4367",
+					"entidades": []
+				},
+				"41078": {
+					"nombre": "BARAYA",
+					"codigo": "41078",
+					"poblacion": "8269",
+					"entidades": []
+				},
+				"41132": {
+					"nombre": "CAMPOALEGRE",
+					"codigo": "41132",
+					"poblacion": "31357",
+					"entidades": []
+				},
+				"41206": {
+					"nombre": "COLOMBIA",
+					"codigo": "41206",
+					"poblacion": "7064",
+					"entidades": []
+				},
+				"41244": {
+					"nombre": "ELIAS",
+					"codigo": "41244",
+					"poblacion": "4300",
+					"entidades": []
+				},
+				"41298": {
+					"nombre": "GARZON",
+					"codigo": "41298",
+					"poblacion": "74136",
+					"entidades": []
+				},
+				"41306": {
+					"nombre": "GIGANTE",
+					"codigo": "41306",
+					"poblacion": "24726",
+					"entidades": []
+				},
+				"41319": {
+					"nombre": "GUADALUPE",
+					"codigo": "41319",
+					"poblacion": "18302",
+					"entidades": []
+				},
+				"41349": {
+					"nombre": "HOBO",
+					"codigo": "41349",
+					"poblacion": "7387",
+					"entidades": []
+				},
+				"41357": {
+					"nombre": "IQUIRA",
+					"codigo": "41357",
+					"poblacion": "9345",
+					"entidades": []
+				},
+				"41359": {
+					"nombre": "ISNOS",
+					"codigo": "41359",
+					"poblacion": "25719",
+					"entidades": []
+				},
+				"41378": {
+					"nombre": "LA ARGENTINA",
+					"codigo": "41378",
+					"poblacion": "13162",
+					"entidades": []
+				},
+				"41396": {
+					"nombre": "LA PLATA",
+					"codigo": "41396",
+					"poblacion": "62380",
+					"entidades": []
+				},
+				"41483": {
+					"nombre": "NATAGA",
+					"codigo": "41483",
+					"poblacion": "6573",
+					"entidades": []
+				},
+				"41503": {
+					"nombre": "OPORAPA",
+					"codigo": "41503",
+					"poblacion": "11920",
+					"entidades": []
+				},
+				"41518": {
+					"nombre": "PAICOL",
+					"codigo": "41518",
+					"poblacion": "6722",
+					"entidades": []
+				},
+				"41524": {
+					"nombre": "PALERMO",
+					"codigo": "41524",
+					"poblacion": "26881",
+					"entidades": []
+				},
+				"41530": {
+					"nombre": "PALESTINA",
+					"codigo": "41530",
+					"poblacion": "11395",
+					"entidades": []
+				},
+				"41548": {
+					"nombre": "PITAL",
+					"codigo": "41548",
+					"poblacion": "13927",
+					"entidades": []
+				},
+				"41551": {
+					"nombre": "PITALITO",
+					"codigo": "41551",
+					"poblacion": "128630",
+					"entidades": []
+				},
+				"41615": {
+					"nombre": "RIVERA",
+					"codigo": "41615",
+					"poblacion": "25131",
+					"entidades": []
+				},
+				"41660": {
+					"nombre": "SALADOBLANCO",
+					"codigo": "41660",
+					"poblacion": "10567",
+					"entidades": []
+				},
+				"41668": {
+					"nombre": "SAN AGUSTIN",
+					"codigo": "41668",
+					"poblacion": "33727",
+					"entidades": []
+				},
+				"41676": {
+					"nombre": "SANTA MARIA",
+					"codigo": "41676",
+					"poblacion": "10462",
+					"entidades": []
+				},
+				"41770": {
+					"nombre": "SUAZA",
+					"codigo": "41770",
+					"poblacion": "22729",
+					"entidades": []
+				},
+				"41791": {
+					"nombre": "TARQUI",
+					"codigo": "41791",
+					"poblacion": "17729",
+					"entidades": []
+				},
+				"41797": {
+					"nombre": "TESALIA",
+					"codigo": "41797",
+					"poblacion": "10923",
+					"entidades": []
+				},
+				"41799": {
+					"nombre": "TELLO",
+					"codigo": "41799",
+					"poblacion": "11800",
+					"entidades": []
+				},
+				"41801": {
+					"nombre": "TERUEL",
+					"codigo": "41801",
+					"poblacion": "8094",
+					"entidades": []
+				},
+				"41807": {
+					"nombre": "TIMANA",
+					"codigo": "41807",
+					"poblacion": "22070",
+					"entidades": []
+				},
+				"41872": {
+					"nombre": "VILLAVIEJA",
+					"codigo": "41872",
+					"poblacion": "7240",
+					"entidades": []
+				},
+				"41885": {
+					"nombre": "YAGUARA",
+					"codigo": "41885",
+					"poblacion": "7824",
+					"entidades": []
+				}
+			}
+		},
+		"44": {
+			"nombre": "GUAJIRA",
+			"codigo": "44",
+			"poblacion": "965718",
+			"entidades": {
+				"44001": {
+					"nombre": "RIOHACHA",
+					"codigo": "44001",
+					"poblacion": "201839",
+					"entidades": []
+				},
+				"44035": {
+					"nombre": "ALBANIA",
+					"codigo": "44035",
+					"poblacion": "32265",
+					"entidades": []
+				},
+				"44078": {
+					"nombre": "BARRANCAS",
+					"codigo": "44078",
+					"poblacion": "38348",
+					"entidades": []
+				},
+				"44090": {
+					"nombre": "DIBULLA",
+					"codigo": "44090",
+					"poblacion": "42060",
+					"entidades": []
+				},
+				"44098": {
+					"nombre": "DISTRACCION",
+					"codigo": "44098",
+					"poblacion": "14248",
+					"entidades": []
+				},
+				"44110": {
+					"nombre": "EL MOLINO",
+					"codigo": "44110",
+					"poblacion": "7879",
+					"entidades": []
+				},
+				"44279": {
+					"nombre": "FONSECA",
+					"codigo": "44279",
+					"poblacion": "44544",
+					"entidades": []
+				},
+				"44378": {
+					"nombre": "HATONUEVO",
+					"codigo": "44378",
+					"poblacion": "22033",
+					"entidades": []
+				},
+				"44420": {
+					"nombre": "LA JAGUA DEL PILAR",
+					"codigo": "44420",
+					"poblacion": "3834",
+					"entidades": []
+				},
+				"44430": {
+					"nombre": "MAICAO",
+					"codigo": "44430",
+					"poblacion": "185072",
+					"entidades": []
+				},
+				"44560": {
+					"nombre": "MANAURE",
+					"codigo": "44560",
+					"poblacion": "93431",
+					"entidades": []
+				},
+				"44650": {
+					"nombre": "SAN JUAN DEL CESAR",
+					"codigo": "44650",
+					"poblacion": "49584",
+					"entidades": []
+				},
+				"44847": {
+					"nombre": "URIBIA",
+					"codigo": "44847",
+					"poblacion": "190084",
+					"entidades": []
+				},
+				"44855": {
+					"nombre": "URUMITA",
+					"codigo": "44855",
+					"poblacion": "11261",
+					"entidades": []
+				},
+				"44874": {
+					"nombre": "VILLANUEVA",
+					"codigo": "44874",
+					"poblacion": "29236",
+					"entidades": []
+				}
+			}
+		},
+		"47": {
+			"nombre": "MAGDALENA",
+			"codigo": "47",
+			"poblacion": "1427026",
+			"entidades": {
+				"47001": {
+					"nombre": "SANTA MARTA",
+					"codigo": "47001",
+					"poblacion": "538612",
+					"entidades": []
+				},
+				"47030": {
+					"nombre": "ALGARROBO",
+					"codigo": "47030",
+					"poblacion": "16785",
+					"entidades": []
+				},
+				"47053": {
+					"nombre": "ARACATACA",
+					"codigo": "47053",
+					"poblacion": "41492",
+					"entidades": []
+				},
+				"47058": {
+					"nombre": "ARIGUANI",
+					"codigo": "47058",
+					"poblacion": "31794",
+					"entidades": []
+				},
+				"47161": {
+					"nombre": "CERRO DE SAN ANTONIO",
+					"codigo": "47161",
+					"poblacion": "9941",
+					"entidades": []
+				},
+				"47170": {
+					"nombre": "CHIVOLO",
+					"codigo": "47170",
+					"poblacion": "23388",
+					"entidades": []
+				},
+				"47189": {
+					"nombre": "CIENAGA",
+					"codigo": "47189",
+					"poblacion": "124339",
+					"entidades": []
+				},
+				"47205": {
+					"nombre": "CONCORDIA",
+					"codigo": "47205",
+					"poblacion": "11227",
+					"entidades": []
+				},
+				"47245": {
+					"nombre": "EL BANCO",
+					"codigo": "47245",
+					"poblacion": "69701",
+					"entidades": []
+				},
+				"47258": {
+					"nombre": "EL PI\u00d1ON",
+					"codigo": "47258",
+					"poblacion": "24083",
+					"entidades": []
+				},
+				"47268": {
+					"nombre": "EL RETEN",
+					"codigo": "47268",
+					"poblacion": "21052",
+					"entidades": []
+				},
+				"47288": {
+					"nombre": "FUNDACION",
+					"codigo": "47288",
+					"poblacion": "70491",
+					"entidades": []
+				},
+				"47318": {
+					"nombre": "GUAMAL",
+					"codigo": "47318",
+					"poblacion": "27918",
+					"entidades": []
+				},
+				"47460": {
+					"nombre": "NUEVA GRANADA",
+					"codigo": "47460",
+					"poblacion": "21166",
+					"entidades": []
+				},
+				"47541": {
+					"nombre": "PEDRAZA",
+					"codigo": "47541",
+					"poblacion": "9290",
+					"entidades": []
+				},
+				"47545": {
+					"nombre": "PIJI\u00d1O DEL CARMEN",
+					"codigo": "47545",
+					"poblacion": "12908",
+					"entidades": []
+				},
+				"47551": {
+					"nombre": "PIVIJAY",
+					"codigo": "47551",
+					"poblacion": "38973",
+					"entidades": []
+				},
+				"47555": {
+					"nombre": "PLATO",
+					"codigo": "47555",
+					"poblacion": "64017",
+					"entidades": []
+				},
+				"47570": {
+					"nombre": "PUEBLOVIEJO",
+					"codigo": "47570",
+					"poblacion": "32188",
+					"entidades": []
+				},
+				"47605": {
+					"nombre": "REMOLINO",
+					"codigo": "47605",
+					"poblacion": "11929",
+					"entidades": []
+				},
+				"47660": {
+					"nombre": "SABANAS DE SAN ANGEL",
+					"codigo": "47660",
+					"poblacion": "16724",
+					"entidades": []
+				},
+				"47675": {
+					"nombre": "SALAMINA",
+					"codigo": "47675",
+					"poblacion": "11295",
+					"entidades": []
+				},
+				"47692": {
+					"nombre": "SAN SEBASTIAN DE BUENAVISTA",
+					"codigo": "47692",
+					"poblacion": "20696",
+					"entidades": []
+				},
+				"47703": {
+					"nombre": "SAN ZENON",
+					"codigo": "47703",
+					"poblacion": "12439",
+					"entidades": []
+				},
+				"47707": {
+					"nombre": "SANTA ANA",
+					"codigo": "47707",
+					"poblacion": "26075",
+					"entidades": []
+				},
+				"47720": {
+					"nombre": "SANTA BARBARA DE PINTO",
+					"codigo": "47720",
+					"poblacion": "11295",
+					"entidades": []
+				},
+				"47745": {
+					"nombre": "SITIONUEVO",
+					"codigo": "47745",
+					"poblacion": "29159",
+					"entidades": []
+				},
+				"47798": {
+					"nombre": "TENERIFE",
+					"codigo": "47798",
+					"poblacion": "13503",
+					"entidades": []
+				},
+				"47960": {
+					"nombre": "ZAPAYAN",
+					"codigo": "47960",
+					"poblacion": "10613",
+					"entidades": []
+				},
+				"47980": {
+					"nombre": "ZONA BANANERA",
+					"codigo": "47980",
+					"poblacion": "73933",
+					"entidades": []
+				}
+			}
+		},
+		"50": {
+			"nombre": "META",
+			"codigo": "50",
+			"poblacion": "1063454",
+			"entidades": {
+				"50001": {
+					"nombre": "VILLAVICENCIO",
+					"codigo": "50001",
+					"poblacion": "545302",
+					"entidades": []
+				},
+				"50006": {
+					"nombre": "ACACIAS",
+					"codigo": "50006",
+					"poblacion": "91829",
+					"entidades": []
+				},
+				"50110": {
+					"nombre": "BARRANCA DE UPIA",
+					"codigo": "50110",
+					"poblacion": "6578",
+					"entidades": []
+				},
+				"50124": {
+					"nombre": "CABUYARO",
+					"codigo": "50124",
+					"poblacion": "6192",
+					"entidades": []
+				},
+				"50150": {
+					"nombre": "CASTILLA LA NUEVA",
+					"codigo": "50150",
+					"poblacion": "15906",
+					"entidades": []
+				},
+				"50223": {
+					"nombre": "CUBARRAL",
+					"codigo": "50223",
+					"poblacion": "7068",
+					"entidades": []
+				},
+				"50226": {
+					"nombre": "CUMARAL",
+					"codigo": "50226",
+					"poblacion": "23195",
+					"entidades": []
+				},
+				"50245": {
+					"nombre": "EL CALVARIO",
+					"codigo": "50245",
+					"poblacion": "1652",
+					"entidades": []
+				},
+				"50251": {
+					"nombre": "EL CASTILLO",
+					"codigo": "50251",
+					"poblacion": "7408",
+					"entidades": []
+				},
+				"50270": {
+					"nombre": "EL DORADO",
+					"codigo": "50270",
+					"poblacion": "3971",
+					"entidades": []
+				},
+				"50287": {
+					"nombre": "FUENTE DE ORO",
+					"codigo": "50287",
+					"poblacion": "12388",
+					"entidades": []
+				},
+				"50313": {
+					"nombre": "GRANADA",
+					"codigo": "50313",
+					"poblacion": "70577",
+					"entidades": []
+				},
+				"50318": {
+					"nombre": "GUAMAL",
+					"codigo": "50318",
+					"poblacion": "14462",
+					"entidades": []
+				},
+				"50325": {
+					"nombre": "MAPIRIPAN",
+					"codigo": "50325",
+					"poblacion": "7156",
+					"entidades": []
+				},
+				"50330": {
+					"nombre": "MESETAS",
+					"codigo": "50330",
+					"poblacion": "10430",
+					"entidades": []
+				},
+				"50350": {
+					"nombre": "LA MACARENA",
+					"codigo": "50350",
+					"poblacion": "28052",
+					"entidades": []
+				},
+				"50370": {
+					"nombre": "URIBE",
+					"codigo": "50370",
+					"poblacion": "9482",
+					"entidades": []
+				},
+				"50400": {
+					"nombre": "LEJANIAS",
+					"codigo": "50400",
+					"poblacion": "11162",
+					"entidades": []
+				},
+				"50450": {
+					"nombre": "PUERTO CONCORDIA",
+					"codigo": "50450",
+					"poblacion": "8569",
+					"entidades": []
+				},
+				"50568": {
+					"nombre": "PUERTO GAITAN",
+					"codigo": "50568",
+					"poblacion": "43605",
+					"entidades": []
+				},
+				"50573": {
+					"nombre": "PUERTO LOPEZ",
+					"codigo": "50573",
+					"poblacion": "30312",
+					"entidades": []
+				},
+				"50577": {
+					"nombre": "PUERTO LLERAS",
+					"codigo": "50577",
+					"poblacion": "10354",
+					"entidades": []
+				},
+				"50590": {
+					"nombre": "PUERTO RICO",
+					"codigo": "50590",
+					"poblacion": "12874",
+					"entidades": []
+				},
+				"50606": {
+					"nombre": "RESTREPO",
+					"codigo": "50606",
+					"poblacion": "18658",
+					"entidades": []
+				},
+				"50680": {
+					"nombre": "SAN CARLOS DE GUAROA",
+					"codigo": "50680",
+					"poblacion": "12875",
+					"entidades": []
+				},
+				"50683": {
+					"nombre": "SAN JUAN DE ARAMA",
+					"codigo": "50683",
+					"poblacion": "8865",
+					"entidades": []
+				},
+				"50686": {
+					"nombre": "SAN JUANITO",
+					"codigo": "50686",
+					"poblacion": "1243",
+					"entidades": []
+				},
+				"50689": {
+					"nombre": "SAN MARTIN",
+					"codigo": "50689",
+					"poblacion": "26499",
+					"entidades": []
+				},
+				"50711": {
+					"nombre": "VISTAHERMOSA",
+					"codigo": "50711",
+					"poblacion": "16790",
+					"entidades": []
+				}
+			}
+		},
+		"52": {
+			"nombre": "NARINO",
+			"codigo": "52",
+			"poblacion": "1627589",
+			"entidades": {
+				"52001": {
+					"nombre": "PASTO",
+					"codigo": "52001",
+					"poblacion": "392589",
+					"entidades": []
+				},
+				"52019": {
+					"nombre": "ALBAN",
+					"codigo": "52019",
+					"poblacion": "9320",
+					"entidades": []
+				},
+				"52022": {
+					"nombre": "ALDANA",
+					"codigo": "52022",
+					"poblacion": "7361",
+					"entidades": []
+				},
+				"52036": {
+					"nombre": "ANCUYA",
+					"codigo": "52036",
+					"poblacion": "8603",
+					"entidades": []
+				},
+				"52051": {
+					"nombre": "ARBOLEDA",
+					"codigo": "52051",
+					"poblacion": "8420",
+					"entidades": []
+				},
+				"52079": {
+					"nombre": "BARBACOAS",
+					"codigo": "52079",
+					"poblacion": "56526",
+					"entidades": []
+				},
+				"52083": {
+					"nombre": "BELEN",
+					"codigo": "52083",
+					"poblacion": "6301",
+					"entidades": []
+				},
+				"52110": {
+					"nombre": "BUESACO",
+					"codigo": "52110",
+					"poblacion": "23910",
+					"entidades": []
+				},
+				"52203": {
+					"nombre": "COLON",
+					"codigo": "52203",
+					"poblacion": "8316",
+					"entidades": []
+				},
+				"52207": {
+					"nombre": "CONSACA",
+					"codigo": "52207",
+					"poblacion": "13738",
+					"entidades": []
+				},
+				"52210": {
+					"nombre": "CONTADERO",
+					"codigo": "52210",
+					"poblacion": "7236",
+					"entidades": []
+				},
+				"52215": {
+					"nombre": "CORDOBA",
+					"codigo": "52215",
+					"poblacion": "15477",
+					"entidades": []
+				},
+				"52224": {
+					"nombre": "CUASPUD",
+					"codigo": "52224",
+					"poblacion": "9198",
+					"entidades": []
+				},
+				"52227": {
+					"nombre": "CUMBAL",
+					"codigo": "52227",
+					"poblacion": "37033",
+					"entidades": []
+				},
+				"52233": {
+					"nombre": "CUMBITARA",
+					"codigo": "52233",
+					"poblacion": "5768",
+					"entidades": []
+				},
+				"52240": {
+					"nombre": "CHACHAGUI",
+					"codigo": "52240",
+					"poblacion": "15303",
+					"entidades": []
+				},
+				"52250": {
+					"nombre": "EL CHARCO",
+					"codigo": "52250",
+					"poblacion": "22550",
+					"entidades": []
+				},
+				"52254": {
+					"nombre": "EL PE\u00d1OL",
+					"codigo": "52254",
+					"poblacion": "7442",
+					"entidades": []
+				},
+				"52256": {
+					"nombre": "EL ROSARIO",
+					"codigo": "52256",
+					"poblacion": "12062",
+					"entidades": []
+				},
+				"52258": {
+					"nombre": "EL TABLON DE GOMEZ",
+					"codigo": "52258",
+					"poblacion": "14261",
+					"entidades": []
+				},
+				"52260": {
+					"nombre": "EL TAMBO",
+					"codigo": "52260",
+					"poblacion": "13809",
+					"entidades": []
+				},
+				"52287": {
+					"nombre": "FUNES",
+					"codigo": "52287",
+					"poblacion": "7135",
+					"entidades": []
+				},
+				"52317": {
+					"nombre": "GUACHUCAL",
+					"codigo": "52317",
+					"poblacion": "19339",
+					"entidades": []
+				},
+				"52320": {
+					"nombre": "GUAITARILLA",
+					"codigo": "52320",
+					"poblacion": "11325",
+					"entidades": []
+				},
+				"52323": {
+					"nombre": "GUALMATAN",
+					"codigo": "52323",
+					"poblacion": "7040",
+					"entidades": []
+				},
+				"52352": {
+					"nombre": "ILES",
+					"codigo": "52352",
+					"poblacion": "7632",
+					"entidades": []
+				},
+				"52354": {
+					"nombre": "IMUES",
+					"codigo": "52354",
+					"poblacion": "7446",
+					"entidades": []
+				},
+				"52356": {
+					"nombre": "IPIALES",
+					"codigo": "52356",
+					"poblacion": "115836",
+					"entidades": []
+				},
+				"52378": {
+					"nombre": "LA CRUZ",
+					"codigo": "52378",
+					"poblacion": "18643",
+					"entidades": []
+				},
+				"52381": {
+					"nombre": "LA FLORIDA",
+					"codigo": "52381",
+					"poblacion": "9911",
+					"entidades": []
+				},
+				"52385": {
+					"nombre": "LA LLANADA",
+					"codigo": "52385",
+					"poblacion": "6470",
+					"entidades": []
+				},
+				"52390": {
+					"nombre": "LA TOLA",
+					"codigo": "52390",
+					"poblacion": "7460",
+					"entidades": []
+				},
+				"52399": {
+					"nombre": "LA UNION",
+					"codigo": "52399",
+					"poblacion": "31751",
+					"entidades": []
+				},
+				"52405": {
+					"nombre": "LEIVA",
+					"codigo": "52405",
+					"poblacion": "9571",
+					"entidades": []
+				},
+				"52411": {
+					"nombre": "LINARES",
+					"codigo": "52411",
+					"poblacion": "10012",
+					"entidades": []
+				},
+				"52418": {
+					"nombre": "LOS ANDES",
+					"codigo": "52418",
+					"poblacion": "9268",
+					"entidades": []
+				},
+				"52427": {
+					"nombre": "MAGUI",
+					"codigo": "52427",
+					"poblacion": "25543",
+					"entidades": []
+				},
+				"52435": {
+					"nombre": "MALLAMA",
+					"codigo": "52435",
+					"poblacion": "8946",
+					"entidades": []
+				},
+				"52473": {
+					"nombre": "MOSQUERA",
+					"codigo": "52473",
+					"poblacion": "12582",
+					"entidades": []
+				},
+				"52480": {
+					"nombre": "NARI\u00d1O",
+					"codigo": "52480",
+					"poblacion": "4346",
+					"entidades": []
+				},
+				"52490": {
+					"nombre": "OLAYA HERRERA",
+					"codigo": "52490",
+					"poblacion": "25210",
+					"entidades": []
+				},
+				"52506": {
+					"nombre": "OSPINA",
+					"codigo": "52506",
+					"poblacion": "6993",
+					"entidades": []
+				},
+				"52520": {
+					"nombre": "FRANCISCO PIZARRO",
+					"codigo": "52520",
+					"poblacion": "14158",
+					"entidades": []
+				},
+				"52540": {
+					"nombre": "POLICARPA",
+					"codigo": "52540",
+					"poblacion": "9779",
+					"entidades": []
+				},
+				"52560": {
+					"nombre": "POTOSI",
+					"codigo": "52560",
+					"poblacion": "10058",
+					"entidades": []
+				},
+				"52565": {
+					"nombre": "PROVIDENCIA",
+					"codigo": "52565",
+					"poblacion": "5553",
+					"entidades": []
+				},
+				"52573": {
+					"nombre": "PUERRES",
+					"codigo": "52573",
+					"poblacion": "8365",
+					"entidades": []
+				},
+				"52585": {
+					"nombre": "PUPIALES",
+					"codigo": "52585",
+					"poblacion": "17219",
+					"entidades": []
+				},
+				"52612": {
+					"nombre": "RICAURTE",
+					"codigo": "52612",
+					"poblacion": "20057",
+					"entidades": []
+				},
+				"52621": {
+					"nombre": "ROBERTO PAYAN",
+					"codigo": "52621",
+					"poblacion": "12694",
+					"entidades": []
+				},
+				"52678": {
+					"nombre": "SAMANIEGO",
+					"codigo": "52678",
+					"poblacion": "27742",
+					"entidades": []
+				},
+				"52683": {
+					"nombre": "SANDONA",
+					"codigo": "52683",
+					"poblacion": "19770",
+					"entidades": []
+				},
+				"52685": {
+					"nombre": "SAN BERNARDO",
+					"codigo": "52685",
+					"poblacion": "9171",
+					"entidades": []
+				},
+				"52687": {
+					"nombre": "SAN LORENZO",
+					"codigo": "52687",
+					"poblacion": "18399",
+					"entidades": []
+				},
+				"52693": {
+					"nombre": "SAN PABLO",
+					"codigo": "52693",
+					"poblacion": "14793",
+					"entidades": []
+				},
+				"52694": {
+					"nombre": "SAN PEDRO DE CARTAGO",
+					"codigo": "52694",
+					"poblacion": "6820",
+					"entidades": []
+				},
+				"52696": {
+					"nombre": "SANTA BARBARA",
+					"codigo": "52696",
+					"poblacion": "13242",
+					"entidades": []
+				},
+				"52699": {
+					"nombre": "SANTACRUZ",
+					"codigo": "52699",
+					"poblacion": "11074",
+					"entidades": []
+				},
+				"52720": {
+					"nombre": "SAPUYES",
+					"codigo": "52720",
+					"poblacion": "7232",
+					"entidades": []
+				},
+				"52786": {
+					"nombre": "TAMINANGO",
+					"codigo": "52786",
+					"poblacion": "17878",
+					"entidades": []
+				},
+				"52788": {
+					"nombre": "TANGUA",
+					"codigo": "52788",
+					"poblacion": "13321",
+					"entidades": []
+				},
+				"52835": {
+					"nombre": "SAN ANDRES DE TUMACO",
+					"codigo": "52835",
+					"poblacion": "257052",
+					"entidades": []
+				},
+				"52838": {
+					"nombre": "TUQUERRES",
+					"codigo": "52838",
+					"poblacion": "44575",
+					"entidades": []
+				},
+				"52885": {
+					"nombre": "YACUANQUER",
+					"codigo": "52885",
+					"poblacion": "10955",
+					"entidades": []
+				}
+			}
+		},
+		"54": {
+			"nombre": "NORTE SANTANDER",
+			"codigo": "54",
+			"poblacion": "1620318",
+			"entidades": {
+				"54001": {
+					"nombre": "CUCUTA",
+					"codigo": "54001",
+					"poblacion": "777106",
+					"entidades": []
+				},
+				"54003": {
+					"nombre": "ABREGO",
+					"codigo": "54003",
+					"poblacion": "33931",
+					"entidades": []
+				},
+				"54051": {
+					"nombre": "ARBOLEDAS",
+					"codigo": "54051",
+					"poblacion": "10056",
+					"entidades": []
+				},
+				"54099": {
+					"nombre": "BOCHALEMA",
+					"codigo": "54099",
+					"poblacion": "8845",
+					"entidades": []
+				},
+				"54109": {
+					"nombre": "BUCARASICA",
+					"codigo": "54109",
+					"poblacion": "6614",
+					"entidades": []
+				},
+				"54125": {
+					"nombre": "CACOTA",
+					"codigo": "54125",
+					"poblacion": "2914",
+					"entidades": []
+				},
+				"54128": {
+					"nombre": "CACHIRA",
+					"codigo": "54128",
+					"poblacion": "11198",
+					"entidades": []
+				},
+				"54172": {
+					"nombre": "CHINACOTA",
+					"codigo": "54172",
+					"poblacion": "18858",
+					"entidades": []
+				},
+				"54174": {
+					"nombre": "CHITAGA",
+					"codigo": "54174",
+					"poblacion": "12394",
+					"entidades": []
+				},
+				"54206": {
+					"nombre": "CONVENCION",
+					"codigo": "54206",
+					"poblacion": "19647",
+					"entidades": []
+				},
+				"54223": {
+					"nombre": "CUCUTILLA",
+					"codigo": "54223",
+					"poblacion": "8475",
+					"entidades": []
+				},
+				"54239": {
+					"nombre": "DURANIA",
+					"codigo": "54239",
+					"poblacion": "4812",
+					"entidades": []
+				},
+				"54245": {
+					"nombre": "EL CARMEN",
+					"codigo": "54245",
+					"poblacion": "14043",
+					"entidades": []
+				},
+				"54250": {
+					"nombre": "EL TARRA",
+					"codigo": "54250",
+					"poblacion": "21926",
+					"entidades": []
+				},
+				"54261": {
+					"nombre": "EL ZULIA",
+					"codigo": "54261",
+					"poblacion": "29392",
+					"entidades": []
+				},
+				"54313": {
+					"nombre": "GRAMALOTE",
+					"codigo": "54313",
+					"poblacion": "7694",
+					"entidades": []
+				},
+				"54344": {
+					"nombre": "HACARI",
+					"codigo": "54344",
+					"poblacion": "10603",
+					"entidades": []
+				},
+				"54347": {
+					"nombre": "HERRAN",
+					"codigo": "54347",
+					"poblacion": "7326",
+					"entidades": []
+				},
+				"54377": {
+					"nombre": "LABATECA",
+					"codigo": "54377",
+					"poblacion": "6574",
+					"entidades": []
+				},
+				"54385": {
+					"nombre": "LA ESPERANZA",
+					"codigo": "54385",
+					"poblacion": "12373",
+					"entidades": []
+				},
+				"54398": {
+					"nombre": "LA PLAYA",
+					"codigo": "54398",
+					"poblacion": "8003",
+					"entidades": []
+				},
+				"54405": {
+					"nombre": "LOS PATIOS",
+					"codigo": "54405",
+					"poblacion": "97220",
+					"entidades": []
+				},
+				"54418": {
+					"nombre": "LOURDES",
+					"codigo": "54418",
+					"poblacion": "4191",
+					"entidades": []
+				},
+				"54480": {
+					"nombre": "MUTISCUA",
+					"codigo": "54480",
+					"poblacion": "4530",
+					"entidades": []
+				},
+				"54498": {
+					"nombre": "OCA\u00d1A",
+					"codigo": "54498",
+					"poblacion": "129308",
+					"entidades": []
+				},
+				"54518": {
+					"nombre": "PAMPLONA",
+					"codigo": "54518",
+					"poblacion": "53909",
+					"entidades": []
+				},
+				"54520": {
+					"nombre": "PAMPLONITA",
+					"codigo": "54520",
+					"poblacion": "5793",
+					"entidades": []
+				},
+				"54553": {
+					"nombre": "PUERTO SANTANDER",
+					"codigo": "54553",
+					"poblacion": "9262",
+					"entidades": []
+				},
+				"54599": {
+					"nombre": "RAGONVALIA",
+					"codigo": "54599",
+					"poblacion": "6339",
+					"entidades": []
+				},
+				"54660": {
+					"nombre": "SALAZAR",
+					"codigo": "54660",
+					"poblacion": "10728",
+					"entidades": []
+				},
+				"54670": {
+					"nombre": "SAN CALIXTO",
+					"codigo": "54670",
+					"poblacion": "12174",
+					"entidades": []
+				},
+				"54673": {
+					"nombre": "SAN CAYETANO",
+					"codigo": "54673",
+					"poblacion": "7790",
+					"entidades": []
+				},
+				"54680": {
+					"nombre": "SANTIAGO",
+					"codigo": "54680",
+					"poblacion": "3667",
+					"entidades": []
+				},
+				"54720": {
+					"nombre": "SARDINATA",
+					"codigo": "54720",
+					"poblacion": "26804",
+					"entidades": []
+				},
+				"54743": {
+					"nombre": "SILOS",
+					"codigo": "54743",
+					"poblacion": "6546",
+					"entidades": []
+				},
+				"54800": {
+					"nombre": "TEORAMA",
+					"codigo": "54800",
+					"poblacion": "17670",
+					"entidades": []
+				},
+				"54810": {
+					"nombre": "TIBU",
+					"codigo": "54810",
+					"poblacion": "58721",
+					"entidades": []
+				},
+				"54820": {
+					"nombre": "TOLEDO",
+					"codigo": "54820",
+					"poblacion": "16325",
+					"entidades": []
+				},
+				"54871": {
+					"nombre": "VILLA CARO",
+					"codigo": "54871",
+					"poblacion": "5303",
+					"entidades": []
+				},
+				"54874": {
+					"nombre": "VILLA DEL ROSARIO",
+					"codigo": "54874",
+					"poblacion": "111254",
+					"entidades": []
+				}
+			}
+		},
+		"63": {
+			"nombre": "QUINDIO",
+			"codigo": "63",
+			"poblacion": "555401",
+			"entidades": {
+				"63001": {
+					"nombre": "ARMENIA",
+					"codigo": "63001",
+					"poblacion": "304764",
+					"entidades": []
+				},
+				"63111": {
+					"nombre": "BUENAVISTA",
+					"codigo": "63111",
+					"poblacion": "3129",
+					"entidades": []
+				},
+				"63130": {
+					"nombre": "CALARCA",
+					"codigo": "63130",
+					"poblacion": "74890",
+					"entidades": []
+				},
+				"63190": {
+					"nombre": "CIRCASIA",
+					"codigo": "63190",
+					"poblacion": "29060",
+					"entidades": []
+				},
+				"63212": {
+					"nombre": "CORDOBA",
+					"codigo": "63212",
+					"poblacion": "5739",
+					"entidades": []
+				},
+				"63272": {
+					"nombre": "FILANDIA",
+					"codigo": "63272",
+					"poblacion": "12259",
+					"entidades": []
+				},
+				"63302": {
+					"nombre": "GENOVA",
+					"codigo": "63302",
+					"poblacion": "7447",
+					"entidades": []
+				},
+				"63401": {
+					"nombre": "LA TEBAIDA",
+					"codigo": "63401",
+					"poblacion": "34803",
+					"entidades": []
+				},
+				"63470": {
+					"nombre": "MONTENEGRO",
+					"codigo": "63470",
+					"poblacion": "37518",
+					"entidades": []
+				},
+				"63548": {
+					"nombre": "PIJAO",
+					"codigo": "63548",
+					"poblacion": "5121",
+					"entidades": []
+				},
+				"63594": {
+					"nombre": "QUIMBAYA",
+					"codigo": "63594",
+					"poblacion": "31142",
+					"entidades": []
+				},
+				"63690": {
+					"nombre": "SALENTO",
+					"codigo": "63690",
+					"poblacion": "9529",
+					"entidades": []
+				}
+			}
+		},
+		"66": {
+			"nombre": "RISARALDA",
+			"codigo": "66",
+			"poblacion": "961055",
+			"entidades": {
+				"66001": {
+					"nombre": "PEREIRA",
+					"codigo": "66001",
+					"poblacion": "477027",
+					"entidades": []
+				},
+				"66045": {
+					"nombre": "APIA",
+					"codigo": "66045",
+					"poblacion": "12221",
+					"entidades": []
+				},
+				"66075": {
+					"nombre": "BALBOA",
+					"codigo": "66075",
+					"poblacion": "6297",
+					"entidades": []
+				},
+				"66088": {
+					"nombre": "BELEN DE UMBRIA",
+					"codigo": "66088",
+					"poblacion": "24708",
+					"entidades": []
+				},
+				"66170": {
+					"nombre": "DOSQUEBRADAS",
+					"codigo": "66170",
+					"poblacion": "223782",
+					"entidades": []
+				},
+				"66318": {
+					"nombre": "GUATICA",
+					"codigo": "66318",
+					"poblacion": "12110",
+					"entidades": []
+				},
+				"66383": {
+					"nombre": "LA CELIA",
+					"codigo": "66383",
+					"poblacion": "7426",
+					"entidades": []
+				},
+				"66400": {
+					"nombre": "LA VIRGINIA",
+					"codigo": "66400",
+					"poblacion": "27981",
+					"entidades": []
+				},
+				"66440": {
+					"nombre": "MARSELLA",
+					"codigo": "66440",
+					"poblacion": "16716",
+					"entidades": []
+				},
+				"66456": {
+					"nombre": "MISTRATO",
+					"codigo": "66456",
+					"poblacion": "17257",
+					"entidades": []
+				},
+				"66572": {
+					"nombre": "PUEBLO RICO",
+					"codigo": "66572",
+					"poblacion": "16450",
+					"entidades": []
+				},
+				"66594": {
+					"nombre": "QUINCHIA",
+					"codigo": "66594",
+					"poblacion": "27274",
+					"entidades": []
+				},
+				"66682": {
+					"nombre": "SANTA ROSA DE CABAL",
+					"codigo": "66682",
+					"poblacion": "79372",
+					"entidades": []
+				},
+				"66687": {
+					"nombre": "SANTUARIO",
+					"codigo": "66687",
+					"poblacion": "12434",
+					"entidades": []
+				}
+			}
+		},
+		"68": {
+			"nombre": "SANTANDER",
+			"codigo": "68",
+			"poblacion": "2280908",
+			"entidades": {
+				"68001": {
+					"nombre": "BUCARAMANGA",
+					"codigo": "68001",
+					"poblacion": "607428",
+					"entidades": []
+				},
+				"68013": {
+					"nombre": "AGUADA",
+					"codigo": "68013",
+					"poblacion": "1867",
+					"entidades": []
+				},
+				"68020": {
+					"nombre": "ALBANIA",
+					"codigo": "68020",
+					"poblacion": "4336",
+					"entidades": []
+				},
+				"68051": {
+					"nombre": "ARATOCA",
+					"codigo": "68051",
+					"poblacion": "8487",
+					"entidades": []
+				},
+				"68077": {
+					"nombre": "BARBOSA",
+					"codigo": "68077",
+					"poblacion": "32653",
+					"entidades": []
+				},
+				"68079": {
+					"nombre": "BARICHARA",
+					"codigo": "68079",
+					"poblacion": "10815",
+					"entidades": []
+				},
+				"68081": {
+					"nombre": "BARRANCABERMEJA",
+					"codigo": "68081",
+					"poblacion": "210729",
+					"entidades": []
+				},
+				"68092": {
+					"nombre": "BETULIA",
+					"codigo": "68092",
+					"poblacion": "6061",
+					"entidades": []
+				},
+				"68101": {
+					"nombre": "BOLIVAR",
+					"codigo": "68101",
+					"poblacion": "10980",
+					"entidades": []
+				},
+				"68121": {
+					"nombre": "CABRERA",
+					"codigo": "68121",
+					"poblacion": "2021",
+					"entidades": []
+				},
+				"68132": {
+					"nombre": "CALIFORNIA",
+					"codigo": "68132",
+					"poblacion": "2232",
+					"entidades": []
+				},
+				"68147": {
+					"nombre": "CAPITANEJO",
+					"codigo": "68147",
+					"poblacion": "5479",
+					"entidades": []
+				},
+				"68152": {
+					"nombre": "CARCASI",
+					"codigo": "68152",
+					"poblacion": "4259",
+					"entidades": []
+				},
+				"68160": {
+					"nombre": "CEPITA",
+					"codigo": "68160",
+					"poblacion": "2025",
+					"entidades": []
+				},
+				"68162": {
+					"nombre": "CERRITO",
+					"codigo": "68162",
+					"poblacion": "6933",
+					"entidades": []
+				},
+				"68167": {
+					"nombre": "CHARALA",
+					"codigo": "68167",
+					"poblacion": "12272",
+					"entidades": []
+				},
+				"68169": {
+					"nombre": "CHARTA",
+					"codigo": "68169",
+					"poblacion": "2888",
+					"entidades": []
+				},
+				"68176": {
+					"nombre": "CHIMA",
+					"codigo": "68176",
+					"poblacion": "2866",
+					"entidades": []
+				},
+				"68179": {
+					"nombre": "CHIPATA",
+					"codigo": "68179",
+					"poblacion": "5093",
+					"entidades": []
+				},
+				"68190": {
+					"nombre": "CIMITARRA",
+					"codigo": "68190",
+					"poblacion": "34403",
+					"entidades": []
+				},
+				"68207": {
+					"nombre": "CONCEPCION",
+					"codigo": "68207",
+					"poblacion": "5757",
+					"entidades": []
+				},
+				"68209": {
+					"nombre": "CONFINES",
+					"codigo": "68209",
+					"poblacion": "3294",
+					"entidades": []
+				},
+				"68211": {
+					"nombre": "CONTRATACION",
+					"codigo": "68211",
+					"poblacion": "3699",
+					"entidades": []
+				},
+				"68217": {
+					"nombre": "COROMORO",
+					"codigo": "68217",
+					"poblacion": "5024",
+					"entidades": []
+				},
+				"68229": {
+					"nombre": "CURITI",
+					"codigo": "68229",
+					"poblacion": "13283",
+					"entidades": []
+				},
+				"68235": {
+					"nombre": "EL CARMEN DE CHUCURI",
+					"codigo": "68235",
+					"poblacion": "21820",
+					"entidades": []
+				},
+				"68245": {
+					"nombre": "EL GUACAMAYO",
+					"codigo": "68245",
+					"poblacion": "2085",
+					"entidades": []
+				},
+				"68250": {
+					"nombre": "EL PE\u00d1ON",
+					"codigo": "68250",
+					"poblacion": "5507",
+					"entidades": []
+				},
+				"68255": {
+					"nombre": "EL PLAYON",
+					"codigo": "68255",
+					"poblacion": "14038",
+					"entidades": []
+				},
+				"68264": {
+					"nombre": "ENCINO",
+					"codigo": "68264",
+					"poblacion": "2583",
+					"entidades": []
+				},
+				"68266": {
+					"nombre": "ENCISO",
+					"codigo": "68266",
+					"poblacion": "3445",
+					"entidades": []
+				},
+				"68271": {
+					"nombre": "FLORIAN",
+					"codigo": "68271",
+					"poblacion": "5589",
+					"entidades": []
+				},
+				"68276": {
+					"nombre": "FLORIDABLANCA",
+					"codigo": "68276",
+					"poblacion": "307896",
+					"entidades": []
+				},
+				"68296": {
+					"nombre": "GALAN",
+					"codigo": "68296",
+					"poblacion": "2891",
+					"entidades": []
+				},
+				"68298": {
+					"nombre": "GAMBITA",
+					"codigo": "68298",
+					"poblacion": "4013",
+					"entidades": []
+				},
+				"68307": {
+					"nombre": "GIRON",
+					"codigo": "68307",
+					"poblacion": "171904",
+					"entidades": []
+				},
+				"68318": {
+					"nombre": "GUACA",
+					"codigo": "68318",
+					"poblacion": "5909",
+					"entidades": []
+				},
+				"68320": {
+					"nombre": "GUADALUPE",
+					"codigo": "68320",
+					"poblacion": "4468",
+					"entidades": []
+				},
+				"68322": {
+					"nombre": "GUAPOTA",
+					"codigo": "68322",
+					"poblacion": "2413",
+					"entidades": []
+				},
+				"68324": {
+					"nombre": "GUAVATA",
+					"codigo": "68324",
+					"poblacion": "4191",
+					"entidades": []
+				},
+				"68327": {
+					"nombre": "GUEPSA",
+					"codigo": "68327",
+					"poblacion": "5309",
+					"entidades": []
+				},
+				"68344": {
+					"nombre": "HATO",
+					"codigo": "68344",
+					"poblacion": "2370",
+					"entidades": []
+				},
+				"68368": {
+					"nombre": "JESUS MARIA",
+					"codigo": "68368",
+					"poblacion": "3339",
+					"entidades": []
+				},
+				"68370": {
+					"nombre": "JORDAN",
+					"codigo": "68370",
+					"poblacion": "1336",
+					"entidades": []
+				},
+				"68377": {
+					"nombre": "LA BELLEZA",
+					"codigo": "68377",
+					"poblacion": "6178",
+					"entidades": []
+				},
+				"68385": {
+					"nombre": "LANDAZURI",
+					"codigo": "68385",
+					"poblacion": "10588",
+					"entidades": []
+				},
+				"68397": {
+					"nombre": "LA PAZ",
+					"codigo": "68397",
+					"poblacion": "4917",
+					"entidades": []
+				},
+				"68406": {
+					"nombre": "LEBRIJA",
+					"codigo": "68406",
+					"poblacion": "44169",
+					"entidades": []
+				},
+				"68418": {
+					"nombre": "LOS SANTOS",
+					"codigo": "68418",
+					"poblacion": "14787",
+					"entidades": []
+				},
+				"68425": {
+					"nombre": "MACARAVITA",
+					"codigo": "68425",
+					"poblacion": "2104",
+					"entidades": []
+				},
+				"68432": {
+					"nombre": "MALAGA",
+					"codigo": "68432",
+					"poblacion": "21672",
+					"entidades": []
+				},
+				"68444": {
+					"nombre": "MATANZA",
+					"codigo": "68444",
+					"poblacion": "5035",
+					"entidades": []
+				},
+				"68464": {
+					"nombre": "MOGOTES",
+					"codigo": "68464",
+					"poblacion": "10647",
+					"entidades": []
+				},
+				"68468": {
+					"nombre": "MOLAGAVITA",
+					"codigo": "68468",
+					"poblacion": "4106",
+					"entidades": []
+				},
+				"68498": {
+					"nombre": "OCAMONTE",
+					"codigo": "68498",
+					"poblacion": "5810",
+					"entidades": []
+				},
+				"68500": {
+					"nombre": "OIBA",
+					"codigo": "68500",
+					"poblacion": "11175",
+					"entidades": []
+				},
+				"68502": {
+					"nombre": "ONZAGA",
+					"codigo": "68502",
+					"poblacion": "4082",
+					"entidades": []
+				},
+				"68522": {
+					"nombre": "PALMAR",
+					"codigo": "68522",
+					"poblacion": "1407",
+					"entidades": []
+				},
+				"68524": {
+					"nombre": "PALMAS DEL SOCORRO",
+					"codigo": "68524",
+					"poblacion": "2626",
+					"entidades": []
+				},
+				"68533": {
+					"nombre": "PARAMO",
+					"codigo": "68533",
+					"poblacion": "4869",
+					"entidades": []
+				},
+				"68547": {
+					"nombre": "PIEDECUESTA",
+					"codigo": "68547",
+					"poblacion": "182959",
+					"entidades": []
+				},
+				"68549": {
+					"nombre": "PINCHOTE",
+					"codigo": "68549",
+					"poblacion": "5385",
+					"entidades": []
+				},
+				"68572": {
+					"nombre": "PUENTE NACIONAL",
+					"codigo": "68572",
+					"poblacion": "14844",
+					"entidades": []
+				},
+				"68573": {
+					"nombre": "PUERTO PARRA",
+					"codigo": "68573",
+					"poblacion": "8017",
+					"entidades": []
+				},
+				"68575": {
+					"nombre": "PUERTO WILCHES",
+					"codigo": "68575",
+					"poblacion": "34206",
+					"entidades": []
+				},
+				"68615": {
+					"nombre": "RIONEGRO",
+					"codigo": "68615",
+					"poblacion": "27062",
+					"entidades": []
+				},
+				"68655": {
+					"nombre": "SABANA DE TORRES",
+					"codigo": "68655",
+					"poblacion": "34556",
+					"entidades": []
+				},
+				"68669": {
+					"nombre": "SAN ANDRES",
+					"codigo": "68669",
+					"poblacion": "8596",
+					"entidades": []
+				},
+				"68673": {
+					"nombre": "SAN BENITO",
+					"codigo": "68673",
+					"poblacion": "2972",
+					"entidades": []
+				},
+				"68679": {
+					"nombre": "SAN GIL",
+					"codigo": "68679",
+					"poblacion": "59670",
+					"entidades": []
+				},
+				"68682": {
+					"nombre": "SAN JOAQUIN",
+					"codigo": "68682",
+					"poblacion": "2208",
+					"entidades": []
+				},
+				"68684": {
+					"nombre": "SAN JOSE DE MIRANDA",
+					"codigo": "68684",
+					"poblacion": "4289",
+					"entidades": []
+				},
+				"68686": {
+					"nombre": "SAN MIGUEL",
+					"codigo": "68686",
+					"poblacion": "2478",
+					"entidades": []
+				},
+				"68689": {
+					"nombre": "SAN VICENTE DE CHUCURI",
+					"codigo": "68689",
+					"poblacion": "33593",
+					"entidades": []
+				},
+				"68705": {
+					"nombre": "SANTA BARBARA",
+					"codigo": "68705",
+					"poblacion": "2448",
+					"entidades": []
+				},
+				"68720": {
+					"nombre": "SANTA HELENA DEL OPON",
+					"codigo": "68720",
+					"poblacion": "3411",
+					"entidades": []
+				},
+				"68745": {
+					"nombre": "SIMACOTA",
+					"codigo": "68745",
+					"poblacion": "10226",
+					"entidades": []
+				},
+				"68755": {
+					"nombre": "SOCORRO",
+					"codigo": "68755",
+					"poblacion": "33628",
+					"entidades": []
+				},
+				"68770": {
+					"nombre": "SUAITA",
+					"codigo": "68770",
+					"poblacion": "10158",
+					"entidades": []
+				},
+				"68773": {
+					"nombre": "SUCRE",
+					"codigo": "68773",
+					"poblacion": "7064",
+					"entidades": []
+				},
+				"68780": {
+					"nombre": "SURATA",
+					"codigo": "68780",
+					"poblacion": "3987",
+					"entidades": []
+				},
+				"68820": {
+					"nombre": "TONA",
+					"codigo": "68820",
+					"poblacion": "7718",
+					"entidades": []
+				},
+				"68855": {
+					"nombre": "VALLE DE SAN JOSE",
+					"codigo": "68855",
+					"poblacion": "6336",
+					"entidades": []
+				},
+				"68861": {
+					"nombre": "VELEZ",
+					"codigo": "68861",
+					"poblacion": "25219",
+					"entidades": []
+				},
+				"68867": {
+					"nombre": "VETAS",
+					"codigo": "68867",
+					"poblacion": "2168",
+					"entidades": []
+				},
+				"68872": {
+					"nombre": "VILLANUEVA",
+					"codigo": "68872",
+					"poblacion": "7982",
+					"entidades": []
+				},
+				"68895": {
+					"nombre": "ZAPATOCA",
+					"codigo": "68895",
+					"poblacion": "9566",
+					"entidades": []
+				}
+			}
+		},
+		"70": {
+			"nombre": "SUCRE",
+			"codigo": "70",
+			"poblacion": "949252",
+			"entidades": {
+				"70001": {
+					"nombre": "SINCELEJO",
+					"codigo": "70001",
+					"poblacion": "293951",
+					"entidades": []
+				},
+				"70110": {
+					"nombre": "BUENAVISTA",
+					"codigo": "70110",
+					"poblacion": "10964",
+					"entidades": []
+				},
+				"70124": {
+					"nombre": "CAIMITO",
+					"codigo": "70124",
+					"poblacion": "16028",
+					"entidades": []
+				},
+				"70204": {
+					"nombre": "COLOSO",
+					"codigo": "70204",
+					"poblacion": "8732",
+					"entidades": []
+				},
+				"70215": {
+					"nombre": "COROZAL",
+					"codigo": "70215",
+					"poblacion": "70853",
+					"entidades": []
+				},
+				"70221": {
+					"nombre": "COVE\u00d1AS",
+					"codigo": "70221",
+					"poblacion": "19516",
+					"entidades": []
+				},
+				"70230": {
+					"nombre": "CHALAN",
+					"codigo": "70230",
+					"poblacion": "4604",
+					"entidades": []
+				},
+				"70233": {
+					"nombre": "EL ROBLE",
+					"codigo": "70233",
+					"poblacion": "10439",
+					"entidades": []
+				},
+				"70235": {
+					"nombre": "GALERAS",
+					"codigo": "70235",
+					"poblacion": "23238",
+					"entidades": []
+				},
+				"70265": {
+					"nombre": "GUARANDA",
+					"codigo": "70265",
+					"poblacion": "18601",
+					"entidades": []
+				},
+				"70400": {
+					"nombre": "LA UNION",
+					"codigo": "70400",
+					"poblacion": "12994",
+					"entidades": []
+				},
+				"70418": {
+					"nombre": "LOS PALMITOS",
+					"codigo": "70418",
+					"poblacion": "23884",
+					"entidades": []
+				},
+				"70429": {
+					"nombre": "MAJAGUAL",
+					"codigo": "70429",
+					"poblacion": "38306",
+					"entidades": []
+				},
+				"70473": {
+					"nombre": "MORROA",
+					"codigo": "70473",
+					"poblacion": "15858",
+					"entidades": []
+				},
+				"70508": {
+					"nombre": "OVEJAS",
+					"codigo": "70508",
+					"poblacion": "23436",
+					"entidades": []
+				},
+				"70523": {
+					"nombre": "PALMITO",
+					"codigo": "70523",
+					"poblacion": "15056",
+					"entidades": []
+				},
+				"70670": {
+					"nombre": "SAMPUES",
+					"codigo": "70670",
+					"poblacion": "48819",
+					"entidades": []
+				},
+				"70678": {
+					"nombre": "SAN BENITO ABAD",
+					"codigo": "70678",
+					"poblacion": "29774",
+					"entidades": []
+				},
+				"70702": {
+					"nombre": "SAN JUAN DE BETULIA",
+					"codigo": "70702",
+					"poblacion": "14191",
+					"entidades": []
+				},
+				"70708": {
+					"nombre": "SAN MARCOS",
+					"codigo": "70708",
+					"poblacion": "60566",
+					"entidades": []
+				},
+				"70713": {
+					"nombre": "SAN ONOFRE",
+					"codigo": "70713",
+					"poblacion": "51109",
+					"entidades": []
+				},
+				"70717": {
+					"nombre": "SAN PEDRO",
+					"codigo": "70717",
+					"poblacion": "19210",
+					"entidades": []
+				},
+				"70742": {
+					"nombre": "SAN LUIS DE SINCE",
+					"codigo": "70742",
+					"poblacion": "31903",
+					"entidades": []
+				},
+				"70771": {
+					"nombre": "SUCRE",
+					"codigo": "70771",
+					"poblacion": "30814",
+					"entidades": []
+				},
+				"70820": {
+					"nombre": "SANTIAGO DE TOLU",
+					"codigo": "70820",
+					"poblacion": "34117",
+					"entidades": []
+				},
+				"70823": {
+					"nombre": "TOLU VIEJO",
+					"codigo": "70823",
+					"poblacion": "22289",
+					"entidades": []
+				}
+			}
+		},
+		"73": {
+			"nombre": "TOLIMA",
+			"codigo": "73",
+			"poblacion": "1339998",
+			"entidades": {
+				"73001": {
+					"nombre": "IBAGUE",
+					"codigo": "73001",
+					"poblacion": "541101",
+					"entidades": []
+				},
+				"73024": {
+					"nombre": "ALPUJARRA",
+					"codigo": "73024",
+					"poblacion": "4458",
+					"entidades": []
+				},
+				"73026": {
+					"nombre": "ALVARADO",
+					"codigo": "73026",
+					"poblacion": "8715",
+					"entidades": []
+				},
+				"73030": {
+					"nombre": "AMBALEMA",
+					"codigo": "73030",
+					"poblacion": "6561",
+					"entidades": []
+				},
+				"73043": {
+					"nombre": "ANZOATEGUI",
+					"codigo": "73043",
+					"poblacion": "10006",
+					"entidades": []
+				},
+				"73055": {
+					"nombre": "ARMERO",
+					"codigo": "73055",
+					"poblacion": "12038",
+					"entidades": []
+				},
+				"73067": {
+					"nombre": "ATACO",
+					"codigo": "73067",
+					"poblacion": "19117",
+					"entidades": []
+				},
+				"73124": {
+					"nombre": "CAJAMARCA",
+					"codigo": "73124",
+					"poblacion": "18442",
+					"entidades": []
+				},
+				"73148": {
+					"nombre": "CARMEN DE APICALA",
+					"codigo": "73148",
+					"poblacion": "10448",
+					"entidades": []
+				},
+				"73152": {
+					"nombre": "CASABIANCA",
+					"codigo": "73152",
+					"poblacion": "6297",
+					"entidades": []
+				},
+				"73168": {
+					"nombre": "CHAPARRAL",
+					"codigo": "73168",
+					"poblacion": "50741",
+					"entidades": []
+				},
+				"73200": {
+					"nombre": "COELLO",
+					"codigo": "73200",
+					"poblacion": "8320",
+					"entidades": []
+				},
+				"73217": {
+					"nombre": "COYAIMA",
+					"codigo": "73217",
+					"poblacion": "22490",
+					"entidades": []
+				},
+				"73226": {
+					"nombre": "CUNDAY",
+					"codigo": "73226",
+					"poblacion": "8372",
+					"entidades": []
+				},
+				"73236": {
+					"nombre": "DOLORES",
+					"codigo": "73236",
+					"poblacion": "8185",
+					"entidades": []
+				},
+				"73268": {
+					"nombre": "ESPINAL",
+					"codigo": "73268",
+					"poblacion": "71015",
+					"entidades": []
+				},
+				"73270": {
+					"nombre": "FALAN",
+					"codigo": "73270",
+					"poblacion": "7386",
+					"entidades": []
+				},
+				"73275": {
+					"nombre": "FLANDES",
+					"codigo": "73275",
+					"poblacion": "28615",
+					"entidades": []
+				},
+				"73283": {
+					"nombre": "FRESNO",
+					"codigo": "73283",
+					"poblacion": "31191",
+					"entidades": []
+				},
+				"73319": {
+					"nombre": "GUAMO",
+					"codigo": "73319",
+					"poblacion": "32772",
+					"entidades": []
+				},
+				"73347": {
+					"nombre": "HERVEO",
+					"codigo": "73347",
+					"poblacion": "7213",
+					"entidades": []
+				},
+				"73349": {
+					"nombre": "HONDA",
+					"codigo": "73349",
+					"poblacion": "24542",
+					"entidades": []
+				},
+				"73352": {
+					"nombre": "ICONONZO",
+					"codigo": "73352",
+					"poblacion": "11893",
+					"entidades": []
+				},
+				"73408": {
+					"nombre": "LERIDA",
+					"codigo": "73408",
+					"poblacion": "18617",
+					"entidades": []
+				},
+				"73411": {
+					"nombre": "LIBANO",
+					"codigo": "73411",
+					"poblacion": "36231",
+					"entidades": []
+				},
+				"73443": {
+					"nombre": "SAN SEBASTIAN DE MARIQUITA",
+					"codigo": "73443",
+					"poblacion": "38333",
+					"entidades": []
+				},
+				"73449": {
+					"nombre": "MELGAR",
+					"codigo": "73449",
+					"poblacion": "37682",
+					"entidades": []
+				},
+				"73461": {
+					"nombre": "MURILLO",
+					"codigo": "73461",
+					"poblacion": "4143",
+					"entidades": []
+				},
+				"73483": {
+					"nombre": "NATAGAIMA",
+					"codigo": "73483",
+					"poblacion": "14672",
+					"entidades": []
+				},
+				"73504": {
+					"nombre": "ORTEGA",
+					"codigo": "73504",
+					"poblacion": "34320",
+					"entidades": []
+				},
+				"73520": {
+					"nombre": "PALOCABILDO",
+					"codigo": "73520",
+					"poblacion": "9814",
+					"entidades": []
+				},
+				"73547": {
+					"nombre": "PIEDRAS",
+					"codigo": "73547",
+					"poblacion": "6761",
+					"entidades": []
+				},
+				"73555": {
+					"nombre": "PLANADAS",
+					"codigo": "73555",
+					"poblacion": "25799",
+					"entidades": []
+				},
+				"73563": {
+					"nombre": "PRADO",
+					"codigo": "73563",
+					"poblacion": "8415",
+					"entidades": []
+				},
+				"73585": {
+					"nombre": "PURIFICACION",
+					"codigo": "73585",
+					"poblacion": "23538",
+					"entidades": []
+				},
+				"73616": {
+					"nombre": "RIOBLANCO",
+					"codigo": "73616",
+					"poblacion": "22617",
+					"entidades": []
+				},
+				"73622": {
+					"nombre": "RONCESVALLES",
+					"codigo": "73622",
+					"poblacion": "5479",
+					"entidades": []
+				},
+				"73624": {
+					"nombre": "ROVIRA",
+					"codigo": "73624",
+					"poblacion": "21491",
+					"entidades": []
+				},
+				"73671": {
+					"nombre": "SALDA\u00d1A",
+					"codigo": "73671",
+					"poblacion": "14473",
+					"entidades": []
+				},
+				"73675": {
+					"nombre": "SAN ANTONIO",
+					"codigo": "73675",
+					"poblacion": "12570",
+					"entidades": []
+				},
+				"73678": {
+					"nombre": "SAN LUIS",
+					"codigo": "73678",
+					"poblacion": "13451",
+					"entidades": []
+				},
+				"73686": {
+					"nombre": "SANTA ISABEL",
+					"codigo": "73686",
+					"poblacion": "5673",
+					"entidades": []
+				},
+				"73770": {
+					"nombre": "SUAREZ",
+					"codigo": "73770",
+					"poblacion": "3772",
+					"entidades": []
+				},
+				"73854": {
+					"nombre": "VALLE DE SAN JUAN",
+					"codigo": "73854",
+					"poblacion": "5360",
+					"entidades": []
+				},
+				"73861": {
+					"nombre": "VENADILLO",
+					"codigo": "73861",
+					"poblacion": "12723",
+					"entidades": []
+				},
+				"73870": {
+					"nombre": "VILLAHERMOSA",
+					"codigo": "73870",
+					"poblacion": "9186",
+					"entidades": []
+				},
+				"73873": {
+					"nombre": "VILLARRICA",
+					"codigo": "73873",
+					"poblacion": "4960",
+					"entidades": []
+				}
+			}
+		},
+		"76": {
+			"nombre": "VALLE",
+			"codigo": "76",
+			"poblacion": "4532152",
+			"entidades": {
+				"76001": {
+					"nombre": "CALI",
+					"codigo": "76001",
+					"poblacion": "2252616",
+					"entidades": []
+				},
+				"76020": {
+					"nombre": "ALCALA",
+					"codigo": "76020",
+					"poblacion": "14295",
+					"entidades": []
+				},
+				"76036": {
+					"nombre": "ANDALUCIA",
+					"codigo": "76036",
+					"poblacion": "22594",
+					"entidades": []
+				},
+				"76041": {
+					"nombre": "ANSERMANUEVO",
+					"codigo": "76041",
+					"poblacion": "17316",
+					"entidades": []
+				},
+				"76054": {
+					"nombre": "ARGELIA",
+					"codigo": "76054",
+					"poblacion": "5177",
+					"entidades": []
+				},
+				"76100": {
+					"nombre": "BOLIVAR",
+					"codigo": "76100",
+					"poblacion": "15714",
+					"entidades": []
+				},
+				"76109": {
+					"nombre": "BUENAVENTURA",
+					"codigo": "76109",
+					"poblacion": "311827",
+					"entidades": []
+				},
+				"76111": {
+					"nombre": "GUADALAJARA DE BUGA",
+					"codigo": "76111",
+					"poblacion": "128945",
+					"entidades": []
+				},
+				"76113": {
+					"nombre": "BUGALAGRANDE",
+					"codigo": "76113",
+					"poblacion": "24465",
+					"entidades": []
+				},
+				"76122": {
+					"nombre": "CAICEDONIA",
+					"codigo": "76122",
+					"poblacion": "28521",
+					"entidades": []
+				},
+				"76126": {
+					"nombre": "CALIMA",
+					"codigo": "76126",
+					"poblacion": "18266",
+					"entidades": []
+				},
+				"76130": {
+					"nombre": "CANDELARIA",
+					"codigo": "76130",
+					"poblacion": "94211",
+					"entidades": []
+				},
+				"76147": {
+					"nombre": "CARTAGO",
+					"codigo": "76147",
+					"poblacion": "137302",
+					"entidades": []
+				},
+				"76233": {
+					"nombre": "DAGUA",
+					"codigo": "76233",
+					"poblacion": "49015",
+					"entidades": []
+				},
+				"76243": {
+					"nombre": "EL AGUILA",
+					"codigo": "76243",
+					"poblacion": "8562",
+					"entidades": []
+				},
+				"76246": {
+					"nombre": "EL CAIRO",
+					"codigo": "76246",
+					"poblacion": "6506",
+					"entidades": []
+				},
+				"76248": {
+					"nombre": "EL CERRITO",
+					"codigo": "76248",
+					"poblacion": "57133",
+					"entidades": []
+				},
+				"76250": {
+					"nombre": "EL DOVIO",
+					"codigo": "76250",
+					"poblacion": "8616",
+					"entidades": []
+				},
+				"76275": {
+					"nombre": "FLORIDA",
+					"codigo": "76275",
+					"poblacion": "57961",
+					"entidades": []
+				},
+				"76306": {
+					"nombre": "GINEBRA",
+					"codigo": "76306",
+					"poblacion": "23046",
+					"entidades": []
+				},
+				"76318": {
+					"nombre": "GUACARI",
+					"codigo": "76318",
+					"poblacion": "33578",
+					"entidades": []
+				},
+				"76364": {
+					"nombre": "JAMUNDI",
+					"codigo": "76364",
+					"poblacion": "167147",
+					"entidades": []
+				},
+				"76377": {
+					"nombre": "LA CUMBRE",
+					"codigo": "76377",
+					"poblacion": "16509",
+					"entidades": []
+				},
+				"76400": {
+					"nombre": "LA UNION",
+					"codigo": "76400",
+					"poblacion": "34493",
+					"entidades": []
+				},
+				"76403": {
+					"nombre": "LA VICTORIA",
+					"codigo": "76403",
+					"poblacion": "11867",
+					"entidades": []
+				},
+				"76497": {
+					"nombre": "OBANDO",
+					"codigo": "76497",
+					"poblacion": "12042",
+					"entidades": []
+				},
+				"76520": {
+					"nombre": "PALMIRA",
+					"codigo": "76520",
+					"poblacion": "354285",
+					"entidades": []
+				},
+				"76563": {
+					"nombre": "PRADERA",
+					"codigo": "76563",
+					"poblacion": "48165",
+					"entidades": []
+				},
+				"76606": {
+					"nombre": "RESTREPO",
+					"codigo": "76606",
+					"poblacion": "15304",
+					"entidades": []
+				},
+				"76616": {
+					"nombre": "RIOFRIO",
+					"codigo": "76616",
+					"poblacion": "15463",
+					"entidades": []
+				},
+				"76622": {
+					"nombre": "ROLDANILLO",
+					"codigo": "76622",
+					"poblacion": "36786",
+					"entidades": []
+				},
+				"76670": {
+					"nombre": "SAN PEDRO",
+					"codigo": "76670",
+					"poblacion": "17201",
+					"entidades": []
+				},
+				"76736": {
+					"nombre": "SEVILLA",
+					"codigo": "76736",
+					"poblacion": "41153",
+					"entidades": []
+				},
+				"76823": {
+					"nombre": "TORO",
+					"codigo": "76823",
+					"poblacion": "14389",
+					"entidades": []
+				},
+				"76828": {
+					"nombre": "TRUJILLO",
+					"codigo": "76828",
+					"poblacion": "18982",
+					"entidades": []
+				},
+				"76834": {
+					"nombre": "TULUA",
+					"codigo": "76834",
+					"poblacion": "218812",
+					"entidades": []
+				},
+				"76845": {
+					"nombre": "ULLOA",
+					"codigo": "76845",
+					"poblacion": "5381",
+					"entidades": []
+				},
+				"76863": {
+					"nombre": "VERSALLES",
+					"codigo": "76863",
+					"poblacion": "6950",
+					"entidades": []
+				},
+				"76869": {
+					"nombre": "VIJES",
+					"codigo": "76869",
+					"poblacion": "12884",
+					"entidades": []
+				},
+				"76890": {
+					"nombre": "YOTOCO",
+					"codigo": "76890",
+					"poblacion": "16197",
+					"entidades": []
+				},
+				"76892": {
+					"nombre": "YUMBO",
+					"codigo": "76892",
+					"poblacion": "110069",
+					"entidades": []
+				},
+				"76895": {
+					"nombre": "ZARZAL",
+					"codigo": "76895",
+					"poblacion": "42407",
+					"entidades": []
+				}
+			}
+		},
+		"81": {
+			"nombre": "ARAUCA",
+			"codigo": "81",
+			"poblacion": "294206",
+			"entidades": {
+				"81001": {
+					"nombre": "ARAUCA",
+					"codigo": "81001",
+					"poblacion": "96814",
+					"entidades": []
+				},
+				"81065": {
+					"nombre": "ARAUQUITA",
+					"codigo": "81065",
+					"poblacion": "56209",
+					"entidades": []
+				},
+				"81220": {
+					"nombre": "CRAVO NORTE",
+					"codigo": "81220",
+					"poblacion": "4143",
+					"entidades": []
+				},
+				"81300": {
+					"nombre": "FORTUL",
+					"codigo": "81300",
+					"poblacion": "20148",
+					"entidades": []
+				},
+				"81591": {
+					"nombre": "PUERTO RONDON",
+					"codigo": "81591",
+					"poblacion": "4919",
+					"entidades": []
+				},
+				"81736": {
+					"nombre": "SARAVENA",
+					"codigo": "81736",
+					"poblacion": "63004",
+					"entidades": []
+				},
+				"81794": {
+					"nombre": "TAME",
+					"codigo": "81794",
+					"poblacion": "48969",
+					"entidades": []
+				}
+			}
+		},
+		"85": {
+			"nombre": "CASANARE",
+			"codigo": "85",
+			"poblacion": "435195",
+			"entidades": {
+				"85001": {
+					"nombre": "YOPAL",
+					"codigo": "85001",
+					"poblacion": "177688",
+					"entidades": []
+				},
+				"85010": {
+					"nombre": "AGUAZUL",
+					"codigo": "85010",
+					"poblacion": "38010",
+					"entidades": []
+				},
+				"85015": {
+					"nombre": "CHAMEZA",
+					"codigo": "85015",
+					"poblacion": "2634",
+					"entidades": []
+				},
+				"85125": {
+					"nombre": "HATO COROZAL",
+					"codigo": "85125",
+					"poblacion": "12108",
+					"entidades": []
+				},
+				"85136": {
+					"nombre": "LA SALINA",
+					"codigo": "85136",
+					"poblacion": "1369",
+					"entidades": []
+				},
+				"85139": {
+					"nombre": "MANI",
+					"codigo": "85139",
+					"poblacion": "17463",
+					"entidades": []
+				},
+				"85162": {
+					"nombre": "MONTERREY",
+					"codigo": "85162",
+					"poblacion": "18009",
+					"entidades": []
+				},
+				"85225": {
+					"nombre": "NUNCHIA",
+					"codigo": "85225",
+					"poblacion": "8713",
+					"entidades": []
+				},
+				"85230": {
+					"nombre": "OROCUE",
+					"codigo": "85230",
+					"poblacion": "12652",
+					"entidades": []
+				},
+				"85250": {
+					"nombre": "PAZ DE ARIPORO",
+					"codigo": "85250",
+					"poblacion": "37347",
+					"entidades": []
+				},
+				"85263": {
+					"nombre": "PORE",
+					"codigo": "85263",
+					"poblacion": "12059",
+					"entidades": []
+				},
+				"85279": {
+					"nombre": "RECETOR",
+					"codigo": "85279",
+					"poblacion": "1796",
+					"entidades": []
+				},
+				"85300": {
+					"nombre": "SABANALARGA",
+					"codigo": "85300",
+					"poblacion": "3569",
+					"entidades": []
+				},
+				"85315": {
+					"nombre": "SACAMA",
+					"codigo": "85315",
+					"poblacion": "2059",
+					"entidades": []
+				},
+				"85325": {
+					"nombre": "SAN LUIS DE PALENQUE",
+					"codigo": "85325",
+					"poblacion": "8346",
+					"entidades": []
+				},
+				"85400": {
+					"nombre": "TAMARA",
+					"codigo": "85400",
+					"poblacion": "6567",
+					"entidades": []
+				},
+				"85410": {
+					"nombre": "TAURAMENA",
+					"codigo": "85410",
+					"poblacion": "25173",
+					"entidades": []
+				},
+				"85430": {
+					"nombre": "TRINIDAD",
+					"codigo": "85430",
+					"poblacion": "13449",
+					"entidades": []
+				},
+				"85440": {
+					"nombre": "VILLANUEVA",
+					"codigo": "85440",
+					"poblacion": "36184",
+					"entidades": []
+				}
+			}
+		},
+		"86": {
+			"nombre": "PUTUMAYO",
+			"codigo": "86",
+			"poblacion": "359127",
+			"entidades": {
+				"86001": {
+					"nombre": "MOCOA",
+					"codigo": "86001",
+					"poblacion": "58938",
+					"entidades": []
+				},
+				"86219": {
+					"nombre": "COLON",
+					"codigo": "86219",
+					"poblacion": "5530",
+					"entidades": []
+				},
+				"86320": {
+					"nombre": "ORITO",
+					"codigo": "86320",
+					"poblacion": "38744",
+					"entidades": []
+				},
+				"86568": {
+					"nombre": "PUERTO ASIS",
+					"codigo": "86568",
+					"poblacion": "67211",
+					"entidades": []
+				},
+				"86569": {
+					"nombre": "PUERTO CAICEDO",
+					"codigo": "86569",
+					"poblacion": "16007",
+					"entidades": []
+				},
+				"86571": {
+					"nombre": "PUERTO GUZMAN",
+					"codigo": "86571",
+					"poblacion": "36665",
+					"entidades": []
+				},
+				"86573": {
+					"nombre": "PUERTO LEGUIZAMO",
+					"codigo": "86573",
+					"poblacion": "29494",
+					"entidades": []
+				},
+				"86749": {
+					"nombre": "SIBUNDOY",
+					"codigo": "86749",
+					"poblacion": "15473",
+					"entidades": []
+				},
+				"86755": {
+					"nombre": "SAN FRANCISCO",
+					"codigo": "86755",
+					"poblacion": "5567",
+					"entidades": []
+				},
+				"86757": {
+					"nombre": "SAN MIGUEL",
+					"codigo": "86757",
+					"poblacion": "19434",
+					"entidades": []
+				},
+				"86760": {
+					"nombre": "SANTIAGO",
+					"codigo": "86760",
+					"poblacion": "7308",
+					"entidades": []
+				},
+				"86865": {
+					"nombre": "VALLE DEL GUAMUEZ",
+					"codigo": "86865",
+					"poblacion": "34660",
+					"entidades": []
+				},
+				"86885": {
+					"nombre": "VILLAGARZON",
+					"codigo": "86885",
+					"poblacion": "24096",
+					"entidades": []
+				}
+			}
+		},
+		"88": {
+			"nombre": "SAN ANDRES",
+			"codigo": "88",
+			"poblacion": "63692",
+			"entidades": {
+				"88001": {
+					"nombre": "SAN ANDRES",
+					"codigo": "88001",
+					"poblacion": "57433",
+					"entidades": []
+				},
+				"88564": {
+					"nombre": "PROVIDENCIA",
+					"codigo": "88564",
+					"poblacion": "6259",
+					"entidades": []
+				}
+			}
+		},
+		"91": {
+			"nombre": "AMAZONAS",
+			"codigo": "91",
+			"poblacion": "79020",
+			"entidades": {
+				"91001": {
+					"nombre": "LETICIA",
+					"codigo": "91001",
+					"poblacion": "49737",
+					"entidades": []
+				},
+				"91263": {
+					"nombre": "EL ENCANTO",
+					"codigo": "91263",
+					"poblacion": "2077",
+					"entidades": []
+				},
+				"91405": {
+					"nombre": "LA CHORRERA",
+					"codigo": "91405",
+					"poblacion": "2955",
+					"entidades": []
+				},
+				"91407": {
+					"nombre": "LA PEDRERA",
+					"codigo": "91407",
+					"poblacion": "3947",
+					"entidades": []
+				},
+				"91430": {
+					"nombre": "LA VICTORIA",
+					"codigo": "91430",
+					"poblacion": "662",
+					"entidades": []
+				},
+				"91460": {
+					"nombre": "MIRITI - PARANA",
+					"codigo": "91460",
+					"poblacion": "1879",
+					"entidades": []
+				},
+				"91530": {
+					"nombre": "PUERTO ALEGRIA",
+					"codigo": "91530",
+					"poblacion": "771",
+					"entidades": []
+				},
+				"91536": {
+					"nombre": "PUERTO ARICA",
+					"codigo": "91536",
+					"poblacion": "1042",
+					"entidades": []
+				},
+				"91540": {
+					"nombre": "PUERTO NARI\u00d1O",
+					"codigo": "91540",
+					"poblacion": "10239",
+					"entidades": []
+				},
+				"91669": {
+					"nombre": "PUERTO SANTANDER",
+					"codigo": "91669",
+					"poblacion": "1772",
+					"entidades": []
+				},
+				"91798": {
+					"nombre": "TARAPACA",
+					"codigo": "91798",
+					"poblacion": "3939",
+					"entidades": []
+				}
+			}
+		},
+		"94": {
+			"nombre": "GUAINIA",
+			"codigo": "94",
+			"poblacion": "50636",
+			"entidades": {
+				"94001": {
+					"nombre": "PUERTO INIRIDA",
+					"codigo": "94001",
+					"poblacion": "33683",
+					"entidades": []
+				},
+				"94343": {
+					"nombre": "BARRANCO MINAS",
+					"codigo": "94343",
+					"poblacion": "7983",
+					"entidades": []
+				},
+				"94663": {
+					"nombre": "MAPIRIPANA",
+					"codigo": "94663",
+					"poblacion": "1071",
+					"entidades": []
+				},
+				"94883": {
+					"nombre": "SAN FELIPE",
+					"codigo": "94883",
+					"poblacion": "1743",
+					"entidades": []
+				},
+				"94884": {
+					"nombre": "PUERTO COLOMBIA",
+					"codigo": "94884",
+					"poblacion": "1984",
+					"entidades": []
+				},
+				"94885": {
+					"nombre": "LA GUADALUPE",
+					"codigo": "94885",
+					"poblacion": "296",
+					"entidades": []
+				},
+				"94886": {
+					"nombre": "CACAHUAL",
+					"codigo": "94886",
+					"poblacion": "903",
+					"entidades": []
+				},
+				"94887": {
+					"nombre": "PANA PANA",
+					"codigo": "94887",
+					"poblacion": "2011",
+					"entidades": []
+				},
+				"94888": {
+					"nombre": "MORICHAL",
+					"codigo": "94888",
+					"poblacion": "962",
+					"entidades": []
+				}
+			}
+		},
+		"95": {
+			"nombre": "GUAVIARE",
+			"codigo": "95",
+			"poblacion": "86657",
+			"entidades": {
+				"95001": {
+					"nombre": "SAN JOSE DEL GUAVIARE",
+					"codigo": "95001",
+					"poblacion": "55820",
+					"entidades": []
+				},
+				"95015": {
+					"nombre": "CALAMAR",
+					"codigo": "95015",
+					"poblacion": "10069",
+					"entidades": []
+				},
+				"95025": {
+					"nombre": "EL RETORNO",
+					"codigo": "95025",
+					"poblacion": "13722",
+					"entidades": []
+				},
+				"95200": {
+					"nombre": "MIRAFLORES",
+					"codigo": "95200",
+					"poblacion": "7046",
+					"entidades": []
+				}
+			}
+		},
+		"97": {
+			"nombre": "VAUPES",
+			"codigo": "97",
+			"poblacion": "44712",
+			"entidades": {
+				"97001": {
+					"nombre": "MITU",
+					"codigo": "97001",
+					"poblacion": "32793",
+					"entidades": []
+				},
+				"97161": {
+					"nombre": "CARURU",
+					"codigo": "97161",
+					"poblacion": "3201",
+					"entidades": []
+				},
+				"97511": {
+					"nombre": "PACOA",
+					"codigo": "97511",
+					"poblacion": "4422",
+					"entidades": []
+				},
+				"97666": {
+					"nombre": "TARAIRA",
+					"codigo": "97666",
+					"poblacion": "2423",
+					"entidades": []
+				},
+				"97777": {
+					"nombre": "PAPUNAHUA",
+					"codigo": "97777",
+					"poblacion": "776",
+					"entidades": []
+				},
+				"97889": {
+					"nombre": "YAVARATE",
+					"codigo": "97889",
+					"poblacion": "1097",
+					"entidades": []
+				}
+			}
+		},
+		"99": {
+			"nombre": "VICHADA",
+			"codigo": "99",
+			"poblacion": "112958",
+			"entidades": {
+				"99001": {
+					"nombre": "PUERTO CARRENO",
+					"codigo": "99001",
+					"poblacion": "20294",
+					"entidades": []
+				},
+				"99524": {
+					"nombre": "LA PRIMAVERA",
+					"codigo": "99524",
+					"poblacion": "9608",
+					"entidades": []
+				},
+				"99624": {
+					"nombre": "SANTA ROSALIA",
+					"codigo": "99624",
+					"poblacion": "4193",
+					"entidades": []
+				},
+				"99773": {
+					"nombre": "CUMARIBO",
+					"codigo": "99773",
+					"poblacion": "78863",
+					"entidades": []
+				}
+			}
+		}
+	}
+}

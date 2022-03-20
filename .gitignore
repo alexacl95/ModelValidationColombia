@@ -1,0 +1,13 @@
+camila/
+__pycache__/
+ssh-tests/
+fncCOVID/
+*.out
+*.err
+*.Rhistory
+*.results.json
+*.py~
+*.m~
+*.MATLABDriveTag
+*.sh~
+.results.json
