@@ -9,7 +9,7 @@ function main()
     opts = detectImportOptions('../localidades.csv');
     opts = setvartype(opts, 1, 'string');
     dataLocal = readtable('../localidades.csv', opts);
-    ListData = ["co";"Cafeteros"];	    
+    ListData = "co";	    
     ListData = [ListData; dataLocal{:,1}];
     
 
