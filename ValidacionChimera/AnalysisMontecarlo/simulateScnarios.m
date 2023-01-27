@@ -78,4 +78,5 @@ function ysim2 = simulateScnarios(T, Nominal1, Nominal2, D, ydata)
         xline(600,'--','color',[0 0.4470 0.7410],'LineWidth',1.5)
         ylabel(Names(i),'fontweight','bold')
     end
+    export_fig MonteCarlo.png -transparent -m3
 end
