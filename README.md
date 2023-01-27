@@ -16,4 +16,4 @@ We originally validated the model in [this repository](https://github.com/alexac
 * All figures of the model fitting are available in the notebook [1](https://alexacl95.github.io/ModelValidationColombia/ValidacionChimera/html/PlotingEstiamtions.html)
 * All parameter values for each locality and extension estimations are available in the folder  _ModelValidationColombia/ValidacionChimera/Informs/InformsPDF/_
 
-* The model and its parameter estimations are available in [Mathcovid](https://epidemiologia-matematica.org/), in the [politics module](https://epidemiologia-matematica.org/politicas/). Professors, investigators, and students from the [Universidad EAFIT](https://www.eafit.edu.co) developed the platform with the support of [MinCiencias](https://minciencias.gov.co/)
+* The model and its parameter estimations are available in [Mathcovid](https://covid19.dis.eafit.edu.co/), in the [politics module](https://covid19.dis.eafit.edu.co/politicas/). Professors, investigators, and students from the [Universidad EAFIT](https://www.eafit.edu.co) developed the platform with the support of [MinCiencias](https://minciencias.gov.co/)
